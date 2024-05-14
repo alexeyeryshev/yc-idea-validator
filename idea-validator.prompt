@@ -1,0 +1,66 @@
+I would like to automate the following process in Python.
+Please write a simple Python code for me.
+1. Given a file with companies data in JSON format, read it and execute steps 2-4 for each company. Use long description for the product and subindustry for the audience. See the format below.
+2. Below there's a request 1 that takes "audience" and "product" as input and returns a key.
+3. Then there's a request 2 that takes the key as input and returns a validation data.
+4. Extract the summary from the response 2 and add it as the "ideaValidatorSummary" to the json from the step 1.
+5. Extract all scores from the response 2 and compute the average. Convert it to percentage of the maximum score - 4. Add it as the "ideaValidatorScore" to the json from the step 1.
+6. Add all scores and texts from the response 2 to the json from the step 1.
+7. Save this json.
+
+Additional notes:
+- add logs with print statements
+- save intermediate results in a separate file
+
+Format:
+{
+    "company_id": 29533,
+    "company_name": "Alacrity",
+    "short_description": "AI Based Account Takeover Prevention Platform",
+    "long_description": "We are building a safer internet. Account Takeovers remain a problem - despite 2FA and all the fraud prevention platforms out there today. We are building the next generation of fraud prevention and identity tools. Having fought fraud at the largest scale at some of the biggest companies in the world, we are now building what we wish we had and giving those tools to everyone.",
+    "batch": "W24",
+    "status": "Active",
+    "subindustry": "B2B"
+},
+
+Request 1:
+
+curl 'https://xhkl-v10v-x6df.n7c.xano.io/api:-DstEoh_/free/validation_main' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-GB,en;q=0.6' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://founderpal.ai' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://founderpal.ai/' \
+  -H 'sec-ch-ua: "Chromium";v="124", "Brave";v="124", "Not-A.Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36' \
+  --data-raw '{"audience":"everyone","product":"AI powered data analyzer"}'
+
+Resposne 1:
+"ACJ21TXO2C"
+
+Request 2:
+
+curl 'https://xhkl-v10v-x6df.n7c.xano.io/api:-DstEoh_/free/get_validation?key=PX8MJJG6CF' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-GB,en;q=0.6' \
+  -H 'origin: https://founderpal.ai' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://founderpal.ai/' \
+  -H 'sec-ch-ua: "Chromium";v="124", "Brave";v="124", "Not-A.Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+
+Response 2:
+{"id":6388,"created_at":1715705704781,"product":"AI powered shit analyzer","audience":"everyone","key":"PX8MJJG6CF","audit":"{\n\u0022priority_score\u0022: \u00222\u0022,\n\u0022priority_text\u0022: \u0022While the idea of an AI-powered shit analyzer may be intriguing to some, it may not be in the top 3 daily or weekly issues for most people.\u0022,\n\u0022consequences_score\u0022: \u00221\u0022,\n\u0022consequences_text\u0022: \u0022The consequences of not solving this problem may not be severe or urgent for a general audience, leading to limited motivation to seek out a solution.\u0022,\n\u0022budget_score\u0022: \u00221\u0022,\n\u0022budget_text\u0022: \u0022It\u0027s unlikely that individuals have a dedicated budget for purchasing a solution like a shit analyzer, which could present a significant barrier to adoption.\u0022,\n\u0022competition_score\u0022: \u00222\u0022,\n\u0022competition_text\u0022: \u0022There may not be direct competitors in this exact niche, but the novelty and specific nature of the product may limit its appeal and market potential.\u0022,\n\u0022marketing_score\u0022: \u00221\u0022,\n\u0022marketing_text\u0022: \u0022Acquiring users for a niche product like an AI-powered shit analyzer may prove to be challenging, as it may not have obvious or cost-effective marketing channels.\u0022,\n\u0022differentiation_score\u0022: \u00223\u0022,\n\u0022differentiation_text\u0022: \u0022There is potential for differentiation in the market with an innovative product like an AI-powered shit analyzer, but clearly communicating and showcasing its unique value will be crucial for success.\u0022,\n\u0022summary\u0022: \u0022The concept of an AI-powered shit analyzer is unique and potentially disruptive, but there are significant challenges in terms of audience prioritization, consequences, budget constraints, competition, and marketing strategies. A clear differentiation strategy will be key to overcoming these obstacles and gaining traction in the market.\u0022}","step":"second","ideas":"","email":"","seed":11}

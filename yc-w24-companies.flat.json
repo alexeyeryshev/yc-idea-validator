@@ -1,0 +1,2234 @@
+[
+    {
+        "company_id": 29533,
+        "company_name": "Alacrity",
+        "short_description": "AI Based Account Takeover Prevention Platform",
+        "long_description": "We are building a safer internet. Account Takeovers remain a problem - despite 2FA and all the fraud prevention platforms out there today. We are building the next generation of fraud prevention and identity tools. Having fought fraud at the largest scale at some of the biggest companies in the world, we are now building what we wish we had and giving those tools to everyone.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29527,
+        "company_name": "ParcelBio",
+        "short_description": "Next-generation mRNA medicines",
+        "long_description": "ParcelBio is developing a programmable technology to safely and specifically deliver mRNA to diverse cell types in the body. Our proprietary (nanoparticle-free) technology, which we call \u2018STAmP\u2019, stabilizes the mRNA and utilizes an interchangeable, lock-and-key-like targeting mechanism which enables fully customizable mRNA medicines.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare -> Therapeutics"
+    },
+    {
+        "company_id": 29523,
+        "company_name": "K-Scale Labs",
+        "short_description": "Open-source humanoid robots",
+        "long_description": "We're building humanoid robots to do most of what you find boring or tedious. We have an open-source design which we are releasing to the public, which is capable of walking, talking and manipulating objects.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Consumer -> Consumer Electronics"
+    },
+    {
+        "company_id": 29522,
+        "company_name": "Marr Labs",
+        "short_description": "AI-voice agents that are indistinguishable from humans.",
+        "long_description": "Marr Labs is making AI-voice agents that are indistinguishable from humans. Han and Dave previously created speech tech company Vlingo that powered the first Siri app and was acquired for $225M. \r\n\r\n\r\nNow they are taking voice to the next level by making AI-voice agents that can handle virtually any phone-based job, from answering calls to schedule appointments to call center sales and support jobs\u2014all at a fraction of the cost of a human agent.\r\n \r\n\r\nIn the US alone, businesses handle 17 billion calls a year at an average cost of $5 per call\u2013an $85 billion addressable market. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29519,
+        "company_name": "Forge Rewards",
+        "short_description": "All-in-one operations software to power restaurants",
+        "long_description": "Forge is the modern operations software for emerging restaurants groups and creator food brands to buy and track their supplies. Our customers are top restaurants, groups, and creator brands who manage their finances across over 100+ locations through AI-powered expense management, vendor procurement, supply logistics, and alternative banking services. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29518,
+        "company_name": "FanCave",
+        "short_description": "Powering the free agency of college sports",
+        "long_description": "FanCave powers the free agency of college sports. We enable fans to pledge money to get top recruits to come to their school, or their money back.\r\n\r\nJust two years ago, it became legal for athletes to earn an income beyond their scholarships. Since then, rapid regulation change (and the NCAA's inability to enforce its own policy) has put college sports in disarray. FanCave is the first, public, legal marketplace for the massive industry of college recruiting. We help athletes safely monetize their talent, and let any fan pitch in to recruit top players.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29517,
+        "company_name": "RetailReady",
+        "short_description": "An AI-powered supply chain compliance engine",
+        "long_description": "Every time workers in a warehouse box an order, they reference a 100 page manual with instructions like where to put the shipping label. RetailReady replaces the instruction manual with a tablet application.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Supply Chain and Logistics"
+    },
+    {
+        "company_id": 29516,
+        "company_name": "Million",
+        "short_description": "Make websites fast, automatically",
+        "long_description": "Million is an APM that makes websites fast, automatically. We use AI to automatically find performance issues and write code to fix them.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29515,
+        "company_name": "NowHouse",
+        "short_description": "NowHouse is building a new Broadridge.",
+        "long_description": "NowHouse helps stock brokerages settle trades instantly. We do this with modern post-trade processing software, starting with an AI-driven trade reconciler.\r\n\r\nThe vision is to ultimately become the de facto system of record to broker-dealers and their regulators on the 3 trillion shares that change hands in the U.S. every year.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Fintech"
+    },
+    {
+        "company_id": 29513,
+        "company_name": "Crux",
+        "short_description": "Embedded AI Copilots on Structured Data",
+        "long_description": "Crux helps B2B SaaS teams build embedded AI Copilots on Structured Data. Crux's Copilot enables SaaS users to talk to their business data, discover anomalies, and perform RCA. Some of the top SaaS unicorns use Crux to build production-grade Copilots in less than 1 week and at 1/10th the cost.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29512,
+        "company_name": "Reprompt",
+        "short_description": "Fix hallucinations without code",
+        "long_description": "Generative AI applications are notoriously hard to scale to production: 90% of all Generative AI pilots never make it to production.\r\n\r\nHere\u2019s what you can do with Reprompt:\r\n1. Trace your responses to users across chat, RAG and function calling\r\n2. Automatically track and hallucinations, risky inputs, and compliance issues\r\n3. Write custom prompt overrides to handle the edge cases without changing your main prompt or pushing code\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29511,
+        "company_name": "InspectMind AI",
+        "short_description": "Write Construction Inspections Reports using AI, up to 10x faster",
+        "long_description": "InspectMind AI is changing the game for people who build and design buildings by making it super easy to do their paperwork. Our tool uses AI to quickly turn videos and photos from construction sites into detailed, accurate and well formatted reports. What used to take days of typing and organizing now takes just minutes. With our app, workers can spend less time at their desks and more time doing the important stuff on site.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Real Estate and Construction -> Construction"
+    },
+    {
+        "company_id": 29510,
+        "company_name": "Yarn",
+        "short_description": "Make sales and marketing videos with AI.",
+        "long_description": "Yarn uses AI to help founders, salespeople, and marketers make product and sales videos.\r\n\r\nTeams are using Yarn to make sales collateral, launch videos, use-case demos, training guides, and feature updates for Twitter and LinkedIn.\r\n\r\nNo video experience needed and everything looks great out-of-the-box \u2013 think Notion, Linear, or Stripe-quality \u2013 but branded for your team.\r\n\r\nThe magic really comes from AI (TTS, CV, LLMs) \u2013 so you can zip through 5x faster than a Loom.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29509,
+        "company_name": "Blacksmith",
+        "short_description": "Serverless cloud infra for CI",
+        "long_description": "Blacksmith helps companies run their continuous integration (CI) up to twice as fast, at half the cost. We do this by running their CI on high performance gaming CPUs.\r\n\r\n- Engineering productivity is often marred by slow CI that grows quadratically with the size of the engineering organization.\r\n- On top of this, companies pay high markups to run CI on the hyperscalers.\r\n- Consequently, companies have to run their CI on spot instances to keep costs in check. Since spot instances can get pre-empted at any point, running CI reliably on them requires [significant engineering investment](https://www.rippling.com/blog/how-rippling-used-spot-instances-to-save-and-scale-ci-cd).\r\n\r\n\r\nBlacksmith offers CI compute that is more performant, cheaper, and reliable. With Blacksmith, companies do not have to think about CI as they scale.\r\n\r\nWe are starting with GitHub Actions - today's most popular and fastest-growing CI system. With a one-line change, companies can run their CI up to twice as fast on our high-performance hardware. In addition to this, Blacksmith provides colocated warm caches along with optimizations for common CI workloads (like building and pushing Docker images).\r\n\r\n\r\nAayush, JP and Aditya have gained deep systems and product knowledge from their time at Cockroach Labs and Faire respectively. Both these companies, with several hundred engineers, were spending in the order of millions of dollars on their CI. Yet they were riddled with slow CI and actively seeking out cheaper and faster alternatives. Blacksmith offers exactly this alternative, at a time where being lean is table-stakes for most companies.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29508,
+        "company_name": "CrowdVolt",
+        "short_description": "Bid/ask style ticket exchange powered by automated order fulfillment",
+        "long_description": "CrowdVolt is a two-sided, bid-ask style live event marketplace similar to StockX. We\u2019ve created the only secondary ticket exchange that supports fully automated order fulfillment.\r\n\r\nContact us at founders@crowdvolt.com",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29507,
+        "company_name": "kater.ai",
+        "short_description": "The first diagnostic analytics platform",
+        "long_description": "Kater makes it possible for executives to understand why business outcomes occur in a couple seconds. Kater generates informed hypotheses, validates those hypotheses through code, then surfaces the insights to the user to then make a final decision.\r\n\r\nYvonne was a data engineer and analyst who built the entire data stack at CREXi. Robin led engineering in Microsoft.  \r\n\r\nData is the new oil. Kater is forging a future where decision-makers can uncover valuable insights that may have been previously limited by the scope of specialized data teams.\r\n\r\nThis is the future of data. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29506,
+        "company_name": "MathGPT Pro",
+        "short_description": "Ultimate AI Math Problem Solver to Revolutionize Personalized Learning",
+        "long_description": "MathGPT Pro is the leading AI math solver that enhances both student learning and teacher productivity. MathGPT Pro is an advanced AI math that empowers the mission-impossible personalized learning experience in the past. It has already answered millions of questions from over 200 countries in just a few months.\r\n\r\nAs we advance, we will transform educational paradigms with our pilot programs in schools. By automating grading and providing insightful analytics, our AI empowers teachers to tailor their approaches to each student's needs.\r\n\r\nOur math AI problem solver helps students instantly. It gives them personalized attention from educators. This improves their learning experience.\r\n\r\nWe are committed to making personalized and accessible education a reality with AI. As education evolves, MathGPT Pro stands at the forefront, ready to lead the charge in transforming how we learn.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29504,
+        "company_name": "Quivr",
+        "short_description": "Open Source Chat-Powered Second Brain",
+        "long_description": "Quivr is an AI open-source platform where enterprises connect to their tools, docs, APIs and databases to chat with them. \r\n\r\nThe app can be deployed to the cloud, or self-hosted on existing infrastructure to answer any data privacy concerns.\r\n\r\nQuivr has built an open source community of 100+ contributors and has reached 31k+ Github stars!\r\n\r\nEffortlessly retrieve any available information and let Quivr generate for you new usable content.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Productivity"
+    },
+    {
+        "company_id": 29503,
+        "company_name": "Dragoneye",
+        "short_description": "Helping devs build computer vision models automatically",
+        "long_description": "Dragoneye helps devs build powerful apps and features that use images and videos. With our cutting-edge AI tech, folks can recognize things in the world with high accuracy and deep granularity, right out of the box. No more arduous process of annotating any training data or doing any machine learning work themselves.\r\n\r\nFor example, retailers can turn their product images into rich product metadata. With this highly detailed metadata, we help these companies to supercharge their commerce solutions and importantly, drive revenue by enhancing everything from site search to buying analytics.\r\n\r\nOverview Video: https://www.youtube.com/watch?v=opRMn48z9dM",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29502,
+        "company_name": "renderlet",
+        "short_description": "Build interactive applications that run anywhere",
+        "long_description": "renderlet is a framework that makes it easy to develop interactive applications.\r\n\r\nBuilding applications with high-performance graphics is very hard \u2013 existing tools are cumbersome and aren\u2019t truly platform agnostic, leading to frequent rework. \r\n\r\nWith renderlet, developers can write high-level code to describe 2D and 3D graphics without having to use low-level, platform-specific APIs.\r\n\r\nrenderlet automatically compiles graphics code to WebAssembly and embeds a portable rendering engine inside any app, enabling graphics to safely and automatically render on any platform\u2019s GPU.\r\n\r\nOur runtime is open-source: https://github.com/renderlet/wander",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29501,
+        "company_name": "Fume",
+        "short_description": "We are building the AI Software Developer",
+        "long_description": "We are building an AI software developer that can solve complex tasks.\r\n\r\nAll of those bugs, sentry errors, feature requests can now be handled by Fume now. Just report them over Slack and tag Fume under it. Fume will solve all of them in minutes.\r\n\r\nIf you find yourself copying and pasting code over to ChatGPT all the time, shoot me an email at emre@fumedev.com",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29500,
+        "company_name": "Numo",
+        "short_description": "The offshore bank for international contractors",
+        "long_description": "Numo is the new money company \u2014 built to be the global bank for the newly minted generation of highly ambitious digital workers in Asia, Africa, LATAM, and beyond.\r\n\r\nThese contractors currently sit in the 95th percentile of earners in their country \u2014 but their financial infrastructure is unstable. It's fragmented across PEOs, gig marketplaces, and consumer remittance platforms. With their local currency weakening against the US Dollar, they need control on how and when to repatriate funds. They don't just need a remittance app. They need a bank.\r\n\r\nNumo provides international contractors with a US bank account \u2014 and instant, low-cost payment rails to move money home. This way they can hold funds in USD up to the second they need to spend it. \r\n\r\nWe help international contractors get paid like a local, while banking globally. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Fintech -> Banking and Exchange"
+    },
+    {
+        "company_id": 29499,
+        "company_name": "Forge",
+        "short_description": "Procurement software for hardware companies",
+        "long_description": "Forge makes procurement software for hardware companies. Trillions of dollars of purchases at companies like SpaceX, Tesla, and Anduril are managed across spreadsheets, emails, and meetings - we automate this.\r\n\r\nEmir and Haris are brothers with backgrounds in both software and hardware engineering. While developing rocket engines, Emir saw firsthand how poor procurement operations caused weeks to months of delay, bottlenecking the pace of development.\r\n\r\nOur product lets teams collaborate with manufacturers, track orders from quote to delivery, manage purchase approvals, and more!",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29498,
+        "company_name": "Taiki",
+        "short_description": "Universal API for tax data",
+        "long_description": "Taiki is Plaid for tax documents, a universal API that auto-extracts tax forms from payroll and financial providers. We help companies like Keeper Tax get rid of their manual document upload process.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29496,
+        "company_name": "Konstructly",
+        "short_description": "The Modern Operating System for Construction",
+        "long_description": "Konstructly is the first piece of software for general contractors which ties payments to work approvals. It makes it possible to accurately assess what's been built on site and how much should be paid. \r\n\r\nKonstructly prevents overspend in construction by bridging the gap between those responsible for the payments in construction (back office) and those responsible for completing and managing the build (production). \r\n\r\n\r\nWe digitise invoicing and payment approvals and connect them to the respective quality checks of the works, trade handovers and live progress. All of which are currently managed by unlinked, separate processes and data structures. \r\n\r\nThe visibility we provide not only streamlines manual processes and allows much better schedule and payment management, it also incentivises productivity from subcontractors to ensure they get paid on time, in full. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29487,
+        "company_name": "Pico",
+        "short_description": "Pico organizes and takes action on your iPhone screenshots",
+        "long_description": "Screenshots are the fastest way to save something on your phone. Millions of people habitually screenshot things they like or might revisit - even if they never do. It's like throwing a pass to your future self that you aren't going to catch. Pico knows that your plane ticket and hotel listing are for the same trip, to grab the link for that headline so you can read it later, or to find that product online so you can buy it.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29485,
+        "company_name": "Granza Bio",
+        "short_description": "Cancer targeting attack particles",
+        "long_description": "Granza Bio is developing cancer therapeutics modelled from our body\u2019s own immune system. Our therapeutics termed \u201cattack particles\u201d are engineered to specifically target only cancer cells, preventing any unwanted toxicity and adverse side effects. \r\n\r\nOur attack particles have shown cancer-killing efficacy in brain (glioblastoma), ovarian, lung, and skin cancers. Our platform can also be deployed to target a great range of diseases including autoimmune diseases and infections.\r\n\r\nInterested to know more? Get in touch founders@granzabio.com!",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare -> Therapeutics"
+    },
+    {
+        "company_id": 29484,
+        "company_name": "Haplotype Labs",
+        "short_description": "Personalized prevention using genetics and AI",
+        "long_description": "We're building the HaploHub: a SaaS platform for genetic testing labs, concierge medical practices, and payer/providers to: \r\n * predict disease risk for their patients based on proprietary or publicly available genetic models\r\n * securely host, manage, and interrogate the genetic data of their population\r\n * generate reports and run the most common inference algorithms (phasing, imputation, ibd, etc.) without writing code \r\n\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare -> Diagnostics"
+    },
+    {
+        "company_id": 29483,
+        "company_name": "Healia",
+        "short_description": "Modern health insurance for dual income families",
+        "long_description": "Our product allows employers to pay for the out of pocket costs for any employee that enrolls in their spouse's health insurance plan. This saves our customers $10k per enrollee while providing an incredible employee perk: 100% coverage of a family's health costs.\r\n\r\nWe handle setup, employee education, and claims reimbursement. Our technology can even help employees who don't have a spouse\u00a0understand their insurance options.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29482,
+        "company_name": "TrueClaim",
+        "short_description": "Automatically saving self-insured companies 7% on healthcare",
+        "long_description": "TrueClaim processes all payments between healthcare providers and companies that self-fund their insurance. Unlike incumbents, TrueClaim uses newly available data and AI to save companies 7% of their healthcare costs. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare"
+    },
+    {
+        "company_id": 29481,
+        "company_name": "CoCrafter",
+        "short_description": "B2B construction marketplace to match contractors and subcontractors.",
+        "long_description": "CoCrafter is a construction marketplace to match contractors and subcontractors. Starting in the strong German SMB sector, CoCrafter helps contractors to find and manage local as well as foreign subcontractors.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Real Estate and Construction -> Construction"
+    },
+    {
+        "company_id": 29478,
+        "company_name": "Reform",
+        "short_description": "Retool for logistics companies",
+        "long_description": "Reform makes it easy for logistics companies to build internal automation tools. We're like Retool built specifically for logistics software. Our customers use Reform to build internal tools that can automate tasks such as customs clearance filing, shipment processing, and customer onboarding.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29477,
+        "company_name": "Piramidal",
+        "short_description": "Foundation Model for the Brain",
+        "long_description": "Get instant diagnosis for the vast majority of neurological conditions using our Foundational AI.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare -> Diagnostics"
+    },
+    {
+        "company_id": 29476,
+        "company_name": "Junction Bioscience",
+        "short_description": "AI Hypothesis Engine for Molecular Discovery",
+        "long_description": "Junction Bioscience is building an autonomous AI scientist to navigate the discovery of transformative medicines. Our scientific hypothesis engine iterates upon breakthrough chemistry from the laboratory to achieve clarity and control over the molecular basis of disease. We focus on the intersection of neuroinflammation and immunology where uncommon molecular insights position us to develop best-in-class therapies for millions of patients in need.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29473,
+        "company_name": "OddsView",
+        "short_description": "The Bloomberg Terminal of Sports Betting",
+        "long_description": "OddsView is the one-stop-shop for sports betting tools and media. \r\n\r\nThe OddsView terminal allows users to browse millions of odds updated in real time to find the best bets. Users can access familiar features like positive expected value and arbitrage finders, as well as exclusive tools such as historical odds charts, all within a single platform.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29472,
+        "company_name": "SiLogy",
+        "short_description": "A collaborative test and debug platform for chip developers",
+        "long_description": "SiLogy is building a web platform for chip developers to simulate and debug their designs.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29471,
+        "company_name": "Senso",
+        "short_description": "AI-Powered Knowledge Base for Customer Support",
+        "long_description": "Senso is building an AI-powered knowledge base for customer support, starting in the Credit Union space.  Our product reduces contact time by over 10x by enabling support teams to make decisions about customer requests in seconds.  Bringing service automation to the financial services industry is a $6B opportunity, and we\u2019re building for all regulated industries where Senso's founders have spent over a decade building enterprise software.  ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29470,
+        "company_name": "Eris Biotech",
+        "short_description": "Our drugs engage the immune system to fight tumors",
+        "long_description": "We are developing cancer therapeutics using small molecules that inhibit immune suppression. Our drugs engage the immune system to aggressively fight tumors. In addition, our drugs have a unique delivery mechanism known as hypoxia-activated prodrugs (HAPs). HAPs are drugs designed to become active in a hypoxic (low oxygen) environment, which is a hallmark of the majority of solid tumors. By delivering active drugs only to the tumor site, we hope to overcome systemic toxicity in cancer therapeutics. Our therapeutic portfolio addresses a range of solid tumors, starting with mesothelioma. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare -> Therapeutics"
+    },
+    {
+        "company_id": 29467,
+        "company_name": "Powder",
+        "short_description": "Sales platform for wealth advisors",
+        "long_description": "Powder is an AI tool that helps wealth advisors rapidly create sales proposals that are personalized for each prospective client.  Using LLMs, Powder is able to automate a series of manual tasks such as understanding documents and conversations to create mind-blowing analysis that builds immediate trust.\r\n\r\n\r\nPowder has 3 main features to automate sales workflows -\r\n\r\n1. Brokerage, tax and estate document parser thats fast and accurate.\r\n2. Meeting notetaker thats able to capture personalized insights.\r\n3. Portfolio analysis tool that optimizes portfolio returns, risk and fees.\r\n\r\nOur app saves hours of time and creates a pinpoint proposal that lifts a firm's ability to win new business.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Fintech -> Asset Management"
+    },
+    {
+        "company_id": 29466,
+        "company_name": "OpenFoundry",
+        "short_description": "The fastest developer experience for building on open source AI.",
+        "long_description": "OpenFoundry is an open source platform that helps engineers build, deploy, and scale their open source AI stack 10x faster. Ship your AI stack with just one line of code. You could think of us as an open source alternative to Hugging Face.\r\n\r\nLearn more and check out a demo of this in action in our Launch YC post: https://www.ycombinator.com/launches/KhY-openfoundry-developer-infrastructure-for-open-source-ai",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29465,
+        "company_name": "GoldenBasis",
+        "short_description": "Modern back-office software for brokerages",
+        "long_description": "GoldenBasis makes modern back-office software for brokerages like Schwab or Fidelity, and we\u2019re starting with asset transfers. Every year, $1.1 trillion in assets are transferred between brokerages using decades-old software. Brokerages hire thousands of people to compensate but still lose revenue from abandoned transfers. We solve this problem by automating back-office workflows with AI.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Infrastructure"
+    },
+    {
+        "company_id": 29464,
+        "company_name": "Arcane",
+        "short_description": "AI powered Roblox",
+        "long_description": "Arcane is building the AI powered Roblox. We allow anyone to create and play games, without writing code. Our first product, Summon Worlds, has tens of thousands of users who've created millions of Summons and used them to play AI powered games. \r\n\r\nLucas and Rohan were both engineers at Meta. Rohan was a Principal SWE on Gen AI, AR Glasses and UI Frameworks, and Lucas was a Staff SWE on Gen AI/AR Glasses, and previously at Nvidia. \r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Consumer -> Gaming"
+    },
+    {
+        "company_id": 29463,
+        "company_name": "Somn",
+        "short_description": "Human-like AI receptionists for clinics",
+        "long_description": "We build human-like AI receptionists for healthcare clinics. Our bots call patients to book appointments, remind them of upcoming appointments, and follow up after an appointment.\r\n\r\nHere's what it sounds like:\r\nhttps://www.youtube.com/watch?v=zleutBr9xJE",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare -> Consumer Health and Wellness"
+    },
+    {
+        "company_id": 29461,
+        "company_name": "Magic Hour",
+        "short_description": "Platform for AI video generation.",
+        "long_description": "Magic Hour is a professional video creation tool. \r\n\r\nIt takes the best AI video models, puts them in one workflow, and makes creating an amazing video as easy as selecting a template and customizing it.\r\n\r\nYou can use the product at https://magichour.ai",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Consumer -> Content"
+    },
+    {
+        "company_id": 29460,
+        "company_name": "Ryse",
+        "short_description": "The secondary market for real estate leases",
+        "long_description": "Ryse is the only marketplace where investors who want to buy leases can trade with real estate operators who want to sell leases.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29459,
+        "company_name": "Lumona",
+        "short_description": "Product search featuring recommendations from creators you trust.",
+        "long_description": "Lumona is a product search engine that brings you high-quality recommendations from the creators you trust. Instead of you wading through pages of clickbait Google results or adding \"reddit\u201d to your search, we serve you the products you would otherwise spend hours researching for. \r\n\r\nAs the internet and search have evolved, it has become increasingly obvious that searching the whole internet is now a bug, not a feature. In today\u2019s era of constant information overload, finding the best products to meet your needs amid a sea of SEO-spam and sneaky advertising has never been harder. Imagine trying to find an effective skincare routine, currently you have to comb through countless YouTube videos and Reddit threads to understand the steps of what an ideal routine looks like for you before even deciding which products you want. Lumona simplifies those steps into one search, showing the best products for you, as recommended by the content creators you watch and the communities you visit every day, in one place. \r\n\r\nWe have been working together since meeting during our sophomore year at MIT, recently winning first place at the HackMIT hackathon this past September. As part of MIT\u2019s student-run Web Lab class, we taught over 300 students modern web development. Growing up in the age of social media, we\u2019ve always been influenced by content creators in the products we buy, and have spent endless hours learning how to research and shop for the products we need amid an internet drowning in noise. We are committed to fixing product search\u2014so that you never have to add \u201creddit\u201d to the end of your searches ever again.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Consumer"
+    },
+    {
+        "company_id": 29457,
+        "company_name": "Datacurve",
+        "short_description": "Curated data for training LLMs",
+        "long_description": "We generate expert quality data at scale for fine-tuning LLMs\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29456,
+        "company_name": "Marblism",
+        "short_description": "Generate a fully-functional web app from a single prompt",
+        "long_description": "Everyone dreads the first few lines of code: choosing frameworks, designing UI/UX, setting up your project, integrating front-end with back-end\u2026\r\n\r\nThat's why we created Marblism: just describe your app, and voila! \r\n\r\nHere\u2019s how the magic work:\r\n\r\n1. Describe the product you want to build: it works well for SaaS, marketplaces, social apps and AI apps\r\n2. We generate the database and the back-end\r\n3. We generate the front-end\r\n4. You clone the github repos and you\u2019re ready to go\r\n\r\nThe 90% heavy lifting work is done for you. You focus on adding your 10% unique touch.\r\n\r\nYou can launch your idea in days not months. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29455,
+        "company_name": "CommodityAI",
+        "short_description": "AI-Powered Shipment Management for Commodity Traders",
+        "long_description": "We make it easy for commodity traders manage their shipments. The largest U.S. sugar trader uses our AI-automation platform to track thousands of shipments and process over a million shipping documents.\r\n \r\nOur team consists of an experienced commodity trader with 8 years of experience and two skilled engineers with a combined 13 years of experience from Samsara and Autodesk.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Operations"
+    },
+    {
+        "company_id": 29454,
+        "company_name": "Veles",
+        "short_description": "Copilot for Enterprise Software Sales",
+        "long_description": "Introducing Veles \u2013 your copilot for enterprise software sales. Veles empowers sales reps to comprehend and convey pricing effectively, crafting dynamic quotes that maximize deal size. By integrating seamlessly with existing platforms, Veles streamlines the sales process and delivers actionable performance metrics.\r\n\r\nKey Features:\r\n\r\n\u2705 SaaS Pricing Calculator: Easily standardize pricing and track sales rep behavior in one intuitive platform.\r\n\r\n\u2705 Standard Deal Definition: Define sales strategies and terms to expedite onboarding and maintain negotiation consistency.\r\n\r\n\u2705 Performance Analytics: Gain insights into sales rep behaviors that lead to closed-won deals through comprehensive deal scoring.\r\n\r\n\u2705 Alignment & Optimization: Foster team alignment by sharing negotiations and strategies for successful negotiation calls.\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Sales"
+    },
+    {
+        "company_id": 29453,
+        "company_name": "Miden",
+        "short_description": "Miden is a card issuer processor and core banking for businesses in\u2026",
+        "long_description": "Miden is building a modern infrastructure that facilitates the launch of card programs and various financial products for businesses in Sub-Sahran Africa. Just by reducing integration time, card fraud, improving stability, and being customer focused we quickly rose to top 5 in TPV among card issuing Fintechs in Sub-Saharan Africa within 8 months of launch.\r\n\r\nWe\u2019re going to build the first comprehensive fintech and banking software stack for Africa, based on modern technology. We\u2019re starting with a card issuer-processor.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Fintech"
+    },
+    {
+        "company_id": 29452,
+        "company_name": "Fluently",
+        "short_description": "AI-powered speaking coach for calls",
+        "long_description": "Fluently is an app that helps non-native professionals improve their English with instant feedback after each Zoom call. Imagine having a personal coach, always listening and providing tips.\r\n\r\nThere are 84 million non-native employees who work in English-speaking environments, and companies spend $10 billion annually solely on their English corporate training to improve communication efficiency across the company and help them grow and feel more confident.\r\n\r\nFluently offers a more efficient and convenient way to boost speaking skills by providing feedback on pronunciation, grammar, and vocabulary after each call and fine-tuning the learning trajectory over time. That became possible by recent advancements in ML and the power of M1 chips for local processing.\r\n\r\nWe are non-native founders who solve their pain, and have deep expertise in running ML on edge devices.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Productivity"
+    },
+    {
+        "company_id": 29451,
+        "company_name": "Basepilot",
+        "short_description": "AI coworkers to automate browser work, in minutes.",
+        "long_description": "Basepilot builds AI coworkers that collaborate with humans to automate work across the browser. They learn from what you do and you can teach them new skills, just by demonstration. Companies using Basepilot save 30% of their time and resources per week, freeing up time for more high-value tasks.\r\n\r\nBasepilot is founded by Ken, who previously led a fintech-product to 3M users in <12 months, and Pascal, who worked on robotics & self-driving at Carnegie Mellon and Mercedes-Benz Research.\r\n\r\nInterested to try it out? Get started here: https://www.basepilot.com/ \r\n\r\nYC Launch: https://www.ycombinator.com/launches/KcS-basepilot-your-ai-employee-to-automate-repetitive-browser-work-in-minutes",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29450,
+        "company_name": "Aqua Voice",
+        "short_description": "Voice-only text editor",
+        "long_description": "Aqua is a voice-driven text editor. It lets you speak naturally, like to a person, and writes down what you meant in the format you want.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29449,
+        "company_name": "Onedoc",
+        "short_description": "An API For PDF Document Workflows",
+        "long_description": "Onedoc is an API for PDF document workflows.\r\n\r\nOnedoc enables developers to perform any PDF task like generation, form filling, digital signature and more.\r\nOur open-source library helps developers build complex documents that integrate with our API and external services to build document-centric workflows.\r\n\r\n\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29448,
+        "company_name": "xPay",
+        "short_description": "International payments API for businesses in India and SEA",
+        "long_description": "We're building a payment gateway orchestrator coupled with a managed gateway solution so businesses in India & SEA can go international easily. We abstract out the complexities of compliance, remittance and integration for these merchants by running all that machinery in the background. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29447,
+        "company_name": "DeepNight",
+        "short_description": "Building The Next Generation of Night Vision Devices",
+        "long_description": "DeepNight is building the next generation of night vision with AI.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29444,
+        "company_name": "Vista Space",
+        "short_description": "Structural batteries for high-performance spacecraft",
+        "long_description": "Vista Space is developing Tesla-inspired modular structural battery packs for spacecraft, enabling them to either fit dramatically more power without increasing size or gain 15-30% useful volume without losing power. Founded by alumni of SpaceX, NASA, Rocket Lab, and Firefly.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Industrials -> Aviation and Space"
+    },
+    {
+        "company_id": 29443,
+        "company_name": "Corefin",
+        "short_description": "Open-source lending infrastructure",
+        "long_description": "Corefin is an open-source lending software that allows tech companies to build and launch lending products.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Sales"
+    },
+    {
+        "company_id": 29442,
+        "company_name": "Ocular AI",
+        "short_description": "Open Core Enterprise-grade AI & Search for Engineering & Work",
+        "long_description": "Ocular AI lets teams within organizations search, visualize, and perform critical cross tool actions all on one unified platform. Having worked at  Microsoft and Google we've experienced first-hand how difficult it is to access and find information across multiple Saas tools. To solve this, Ocular AI brings infrastructure, tooling, data, services together and facilitates knowledge discovery and actions all on one platform.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29441,
+        "company_name": "Retell AI",
+        "short_description": "Infra for Building Conversational Voice AI",
+        "long_description": "We help developers implement human-like voice agents in a day instead of months. Plug in your LLM, a voice agent is born!\r\n\r\nFrom AI-powered call agents to voice-enabled coaching apps and lifelike companions, we are your trusted ally in turning these visions into reality.\r\n\r\nAlthough Voice AI has been around for some time, it hasn't yet become effective enough for mainstream use, primarily because of poor user experience. Conversational flows often feel awkward with unnatural pauses and interruptions, requests are frequently misunderstood, and voices sound robotic or overly dramatic. On top of that, setting up such a Voice AI system can require upwards of 100 hours of frustrating development.\r\n\r\nBy offering a truly conversational, fast, and empathetic Voice AI that can be easily configured for any industry and integrated into any product, we aim to push the boundary of user-friendliness to a new level, reaching the threshold for mainstream adoption of Voice AI.\r\n\r\nWe are at a pivotal moment in history where Voice AI will become the primary interface for accessing products and services, revolutionizing our interactions with machines for the better.\r\n\r\nRetell AI is at the forefront of creating this new reality.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29440,
+        "company_name": "Rove",
+        "short_description": "The first travel credit card for Generation Z.",
+        "long_description": "Rove is redefining the credit card industry with a no-annual-fee travel card. Utilizing a cash-flow algorithm for underwriting and the first-ever integrated travel portal for points travel, average spenders can effortlessly earn a free trip each year, positioning us as the go-to choice for young adults looking to travel the world.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Fintech -> Credit and Lending"
+    },
+    {
+        "company_id": 29439,
+        "company_name": "camelQA",
+        "short_description": "AI that replaces human QAs for mobile app testing",
+        "long_description": "CamelQA creates, maintains, and runs your app tests for you. \r\n\r\nCamelQA is an AI QA agent that can conduct end-to-end testing of mobile apps. We convert natural language test cases into tests that run on iOS and Android devices in our device farm, making the QA process easier and more reliable.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29438,
+        "company_name": "Spark",
+        "short_description": "AI-powered workflows for large-scale clean energy",
+        "long_description": "Spark is an AI-powered planning and workflow tool for large-scale clean energy developers that lets them break ground faster. With Spark, developers can search across thousands of PDFs, maps, and websites to identify requirements and screen locations in seconds, not weeks.\r\n\r\nJulia and Tae were previously engineering and product managers at Brex, Tesla, and Apple. They grew up within 10 minutes of each other in Brazil but met in the US through a shared passion for software and infrastructure for society.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29436,
+        "company_name": "Titan",
+        "short_description": "Open-source toolkit for data compliance",
+        "long_description": "Titan is an open-source toolkit for data compliance. Data engineering teams trust Titan to simplify access management, ensure compliance, and minimize risk.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Infrastructure"
+    },
+    {
+        "company_id": 29435,
+        "company_name": "Terrakotta",
+        "short_description": "AI platform for phone-first sellers",
+        "long_description": "Terrakotta is a power-dialer that lets sales reps leave AI-generated voicemails.  Our first customers are Commercial Real Estate brokerages that use Terrakotta to clone their brokers voices, dial prospects and when no one answers, leave an A/B tested, personalized voicemail that gets a callback.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Sales"
+    },
+    {
+        "company_id": 29434,
+        "company_name": "Stacksync",
+        "short_description": "Real-time and two-way sync between CRMs and Databases",
+        "long_description": "Stacksync powers real-time and bidirectional data synchronization between CRMs (e.g. Salesforce, Hubspot or SAP) and databases (e.g. Postgres, Google BigQuery,...). Edits made in your CRM will instantly update in your Database, and vice-versa. To set up a sync, users simply have to connect the two chosen apps in one click and select the tables they want to sync, no-code!\r\nStacksync reduces implementation delays from months to minutes for CRM integration projects and removes all the complexity behind CRM new feature development. We show a 90% improvement on delivery time and budget.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29433,
+        "company_name": "Hatchet",
+        "short_description": "Background task orchestration and visibility",
+        "long_description": "Hatchet abstracts away the infrastructure for managing task queues and message brokers, so you can focus on writing your background task and workflow logic. With Hatchet, you can run slow OpenAI requests in the background with async tasks, chain complex tasks together into workflows, and set retries and timeouts to recover from failure. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Infrastructure"
+    },
+    {
+        "company_id": 29432,
+        "company_name": "Shepherd",
+        "short_description": "Every student's personalized learning assistant",
+        "long_description": "Shepherd is a Learning assistant for schools to provide to their students. Shepherd seamlessly combines AI-enabled self-study, affordable tutoring, peer collaboration, and analytics for a personalized learning experience that is both efficient and effective. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Education"
+    },
+    {
+        "company_id": 29431,
+        "company_name": "Sonauto",
+        "short_description": "Create hit songs with AI",
+        "long_description": "Sonauto is an AI music editor that turns prompts, lyrics, or melodies into full songs in any style. For example, in a few minutes with Sonauto you can make an original birthday song for your friend, sung by Frank Sinatra.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29430,
+        "company_name": "BiteSight",
+        "short_description": "The video-based food delivery app. Imagine TikTok meets DoorDash.",
+        "long_description": "BiteSight shows users videos of food we think they will love from nearby restaurants and delivers it right to their door. \r\n\r\nZac and Lucious studied together at UT Austin. Zac did CS and AI Research, and Lucious built his first $1M ARR product while moonlighting at a YC startup at age 19.\r\n\r\nSince launching the beta in February, BiteSight has onboarded 274 restaurants in SF, handled 211 orders, and users are growing more than 50% each week, all organically.\r\n\r\nUberEats and DoorDash have become cluttered and impersonal super apps. They've created a $30B opportunity for a delivery app that puts the customer experience first by combining high-quality videos, recommendations, and social proof from your most trusted food critics - your friends.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Consumer -> Social"
+    },
+    {
+        "company_id": 29429,
+        "company_name": "Velorum Therapeutics",
+        "short_description": "Powerful cancer drugs that starve tumors",
+        "long_description": "Velorum Therapeutics is developing a new class of cancer drugs that starve tumors by hijacking cancer metabolism. We have shown our drugs work in mice and plan to begin human clinical trials next year, starting with the #1 cancer killer \u2013 lung cancer.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare -> Therapeutics"
+    },
+    {
+        "company_id": 29425,
+        "company_name": "Zep AI",
+        "short_description": "Long-Term Memory for AI Assistants",
+        "long_description": "Zep is the easiest way to add long-term memory to your AI Assistant. With Zep, you can recall, understand, and extract data from chat histories, enabling you to build rich, personalized experiences.\r\n\r\ntl;dr\r\n- Zep ensures your AI Assistant remembers relevant facts and nuance from historical conversations, no matter how distant in the past.\r\n- Zep makes dialog useful: Control program flow, extract structured data, select the right prompts or tools, build customer segments, and more.\r\n- Fast! Minimize the number of LLM calls keeping your users waiting. Zep completes tasks in a 1/10 of the time compared to similar functionality built with OpenAI.\r\n\r\nSee Zep in Action: https://youtu.be/qVspUE_R-iI\r\n\r\n380K+ Open Source Installs (and counting)\r\n\r\nZep\u2019s open source project has seen over 380K installs, 18K+ weekly npm + pypi package downloads, and has 1,800 GitHub stars. Zep Open Source is in use at many early stage startups as well as Fortune 500 media and toy companies.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29424,
+        "company_name": "Openmart",
+        "short_description": "AI alternative to ZoomInfo",
+        "long_description": "Openmart is an AI alternative to ZoomInfo that helps sales professionals query millions of unstructured business data like websites, reviews and socials. Kathryn and Richard met at Pinterest in 2019 and later both joined seed-stage startups. Richard developed LLM and AI agents before ChatGPT, while Kathryn led GTM and drove revenue growth from 0 to 1.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29423,
+        "company_name": "Triply",
+        "short_description": "Operating system for travel businesses in Africa with embedded finance",
+        "long_description": "Triply (Formerly Tripitaca) is the operating system for travel businesses in Africa. We eliminate operational chaos by unifying payments, Invoicing, payroll, accounting, operations, and more into a single platform allowing travel businesses to execute and sell more efficiently. \r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Operations"
+    },
+    {
+        "company_id": 29422,
+        "company_name": "Amber AI",
+        "short_description": "Co-pilot for Account Managers",
+        "long_description": "Amber is an extension of your post-sales team that has context on every customer and every action. \r\n- Transforms a sea of faceless customers into data-driven opportunities your team can execute on \r\n- Automate reactive responses to minimize firefighting \r\n- Supercharge proactive outreach with AI crafted conversations and up-sell qualification; every customer will feel taken care of \r\n\r\nOvertime Amber can learn and scale more and more of your post-sales motions. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Consumer -> Content"
+    },
+    {
+        "company_id": 29421,
+        "company_name": "thorntale",
+        "short_description": "Canva for data, product, and engineering teams",
+        "long_description": "Instead of slideshows with screenshots, our presentations have interactive charts with live data. By connecting data sources directly in presentations, we ensure our users always have pretty, interactive, and up-to-date charts. Our opinionated templates are made explicitly for product, data, and engineering teams, so our users don't have to start from scratch.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29420,
+        "company_name": "Alai",
+        "short_description": "Create high quality presentations faster using AI",
+        "long_description": "Alai  helps tech professionals create high quality presentations faster using AI. For example, a product manager can enter their proposal in plaintext and get polished slide options without spending hours on design.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29419,
+        "company_name": "PocketPod",
+        "short_description": "AI generated podcasts tailored to your interests",
+        "long_description": "PocketPod creates AI generated podcasts tailored to your interests. Whether it's a daily news update or a deep dive on a specific topic, we allow people to consume information in a familiar podcast format. \r\n\r\nWe will be the single place people go to consume audio entertainment, while removing nearly 100% of the cost associated with producing high quality content.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29417,
+        "company_name": "Brainbase",
+        "short_description": "AI workflow automations for enterprise",
+        "long_description": "Brainbase is an AI workflow automation builder designed to handle complex enterprise workflows. Our customers use us to spin up everything from sales autopilots to full fledged customer support workflows in less than a day.\r\n\r\nSMBs and unicorns choose us over our competitors because we are the only platform that combines the power of AI with the ease and robustness of an off-the-shelf enterprise tool.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29416,
+        "company_name": "Focal",
+        "short_description": "AI video creation tool for TV shows and movies",
+        "long_description": "Focal is an AI video creation tool that allows anyone to create and share TV episodes and movies. We combine existing video, audio, and language models to make this process simple and straightforward.\r\n\r\nCheck out our most recent demo: https://youtu.be/GFaN96OMlb0",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Consumer -> Content"
+    },
+    {
+        "company_id": 29415,
+        "company_name": "Givefront",
+        "short_description": "Banking for Nonprofits",
+        "long_description": "At Givefront (formerly Clav), we are building a banking platform tailored for nonprofits. Our unified platform allows organization leaders to manage banking, spend, payments, team turnover, reporting and compliance all in one place. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Fintech"
+    },
+    {
+        "company_id": 29414,
+        "company_name": "Cleva",
+        "short_description": "USD banking platform for Africa",
+        "long_description": "Cleva enables African freelancers and businesses to receive international payment for their service, while protecting themselves from local currency volatility. With a Cleva USD account, one can easily receive USD payment from anywhere in the world, spend via a card, pay bills, convert to local currency, and save in USD to hedge against local currency volatility.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Fintech"
+    },
+    {
+        "company_id": 29413,
+        "company_name": "Oma Care",
+        "short_description": "Get paid for taking care of your parents. ",
+        "long_description": "We are building the technical infrastructure to train and pay the 53M family caregivers in the US. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29411,
+        "company_name": "Artos",
+        "short_description": "Turning science into regulatory submissions in minutes, not months.",
+        "long_description": "Artos is an AI-based document-drafting platform that helps life sciences companies turn their data into regulatory submissions in minutes. These submissions currently take months and are the final hurdle before life sciences companies are allowed to sell their product. \r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29410,
+        "company_name": "Model ML",
+        "short_description": "AI tool for private equity firms and investment banks.",
+        "long_description": "Team:\r\nChaz: Founder of Fat Llama YC S17 - Acquired by Hygglo. Responsible for Business and Sales \r\nArns: Founder of Fancy S20 - Acquired by Gopuff, Responsible for tech and product. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Finance and Accounting"
+    },
+    {
+        "company_id": 29409,
+        "company_name": "BetterBasket",
+        "short_description": "Pricing for grocers with competitive data",
+        "long_description": "BetterBasket helps grocers with pricing, powered by competitive data. Our founding team worked together at Uber Eats growing the dark store business in Asia to $100 million in revenue and making it profitable, and are now building BetterBasket to bring those learnings to all grocers.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29408,
+        "company_name": "Circleback",
+        "short_description": "AI-powered meeting productivity suite",
+        "long_description": "Circleback helps teams get the most out of every meeting\u2013whether it happens on Zoom, Google Meet, Slack huddles, or in-person\u2013by automatically writing best-in-class summaries and taking action on insights that matter.\r\n\r\nFor example, Circleback can automatically identify feature requests that come up in product demo calls and create Linear tasks for each of them, or update your CRM with customer details after a sales call.\r\n\r\nBefore Circleback, Ali led the first integration of LLMs into the Stripe support product and Kevin worked on predictive analytics at Tableau as a senior software engineer.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Productivity"
+    },
+    {
+        "company_id": 29407,
+        "company_name": "just words",
+        "short_description": "Infrastructure & LLMs for content ranking",
+        "long_description": "We give large companies the infrastructure and LLMs to manage, translate, and optimize copy on emails, push notifications, websites, and apps. We built similar software at Twitter and Pinterest that lifted user growth by 20%.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29405,
+        "company_name": "Risotto",
+        "short_description": "Risotto auto-solves IT support requests using AI",
+        "long_description": "Want to apply AI to your IT Helpdesk queue? Risotto helps you grant software access, limit access/permission grants by time, serve knowledge, and get approvals from people like managers. All using natural language directly in chat (AKA \"ChatOps\")\r\n\r\nIT teams spend too much time manually provisioning software and answering the same question repeatedly. We help them improve resolution times, reduce SaaS spend, and enhance security with 24/7 automated software access and IT support. Check us out at: https://www.tryrisotto.com",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29404,
+        "company_name": "DianaHR",
+        "short_description": "An AI-Powered HR Person ",
+        "long_description": "DianaHR is an AI-powered HR person for the 1.4 million SMBs with at least 10 employees. Today, SMB owners spend 10+ hours a week struggling with managing software, state compliance notices, benefits questions, onboarding, insurance, workers comp, 401k, etc. With DianaHR, a human-in-the-loop AI takes care of all that and delivers peace of mind.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29403,
+        "company_name": "HeartByte",
+        "short_description": "GenAI Webtoon. Creator write fictions 10x faster.",
+        "long_description": "HeartByte is a content platform where creators can create original fiction/comics or derivative works based on other fictional worlds. Creators write fictions 10 times faster on HeartByte. It's a place for community to fully indulge in the fictional world that they wish they were in.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29402,
+        "company_name": "Yondu",
+        "short_description": "Robotic Foundation Models for Intelligent Navigation",
+        "long_description": "Yondu develops models that allow robots to understand and intelligently carry out complex commands. The models are trained on data across various robotic platforms on different modalities of tasks. The models serve as a control policy for devices that need to make decisions, whether they be drones for reconnaissance, robot dogs for inspections, or cameras for smart surveillance. Yondu offers our models to robotics service providers through an API and license. Additionally, Yondu sells off-the-shelf hardware with our custom models to provide smart robots for tasks that benefit from improved human-robot interaction. Our first product is a drone you can control with your voice. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29401,
+        "company_name": "dawn",
+        "short_description": "Analytics for AI products.",
+        "long_description": "Make meaning out of billions of tokens.\r\n\r\nDawn is the analytics platform for AI products.\r\nWe transform user requests and model outputs into metrics you'll actually care about.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29400,
+        "company_name": "Lumina",
+        "short_description": "AI Answer Engine for Science",
+        "long_description": "Lumina is an AI answer engine for science. Over 500M people in STEM fields spend hours of their time collecting scientific information. Our SOTA AI search and proprietary database instantly answers complex STEM questions - saving professionals in fields like biotech, pharma, engineering, and finance days of work.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29399,
+        "company_name": "Centauri AI",
+        "short_description": "The Modern ETL and Data Science Platform for Finance",
+        "long_description": "Centauri AI is a modern ETL and Data Science platform for banks and investment firms, starting with Structured Finance. \r\n\r\nFinancial firms heavily rely on Excel, PDF, and PPT files to exchange complex asset details, leading analysts to spend hours crunching the files and extracting insights. Moreover, these data files and reports cannot be easily reused due to poor data infrastructure. \r\n\r\nPowered by AI, our product cuts hours of data wrangling work down to minutes and makes it possible to query past data easily. This helps firms evaluate assets faster and win more deals.\r\n\r\nSince launching last month, we've started a pilot with a brokerage team at a public investment bank that now uses our product daily. Aiming to serve over 100,000 investment teams needing complex data analysis for alternative investments, this opens up a potential $5 billion market.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29398,
+        "company_name": "ProSights",
+        "short_description": "AI-Native Operating System for the Modern Investment Firm",
+        "long_description": "ProSights is radically transforming manual investor software through LLMs. Our hyper-verticalized models scan internal and external data to automate sourcing, diligence, and portfolio monitoring.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Productivity"
+    },
+    {
+        "company_id": 29397,
+        "company_name": "Manifold Freight",
+        "short_description": "Aggregating Spot Freight Opportunities for Carriers",
+        "long_description": "Manifold is revolutionizing the spot freight procurement process for Carriers, Brokers, and Shippers. Our inaugural product transforms the booking process for spot shipments, significantly reducing empty miles and increasing revenue.  We do this by aggregating spot shipment opportunities from a variety of shipper and brokerage sources into a single location.\r\n\r\nAndrew and Oliver bring deep domain expertise of freight from their pivotal roles at Convoy, where they were engineering leaders automating processes that were scaled to handle over 10,000 weekly shipments. This background has been instrumental in shaping Manifold's innovative approach.\r\n\r\nIn just two months since launching Manifold has achieved $5,100 in monthly revenue, showcasing the pressing demand for our product. Manifold is poised to transform this $100+ billion industry. Not only will we streamline spot freight procurement operations but we will also redefine the industry's cost structure for the better.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Supply Chain and Logistics"
+    },
+    {
+        "company_id": 29396,
+        "company_name": "edgetrace",
+        "short_description": "Real-world video understanding models",
+        "long_description": "EdgeTrace makes video data easily accessible and actionable for critical industries. We provide a platform and API for advanced video capabilities, such as semantic search, automated annotations & analytics.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29395,
+        "company_name": "Clarum",
+        "short_description": "Accelerated, reliable due diligence, driven by AI",
+        "long_description": "Clarum helps private equity firms close more deals by conducting quicker due diligence.  Using Clarum, a firm can import files from their data room to get answers to hundreds of questions in minutes. \r\n\r\nWe can displace the private capital industry, by providing investors with quantitative insights from their abundant private internal data.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29394,
+        "company_name": "Opencall.ai",
+        "short_description": "AI call centers for any business",
+        "long_description": "Opencall lets businesses answer the phone automatically. Our AIs answer questions, book appointments, and integrate with existing software.\r\nBusinesses can get started with Opencall in less than an hour, no code or flowcharts required. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29393,
+        "company_name": "Voicepanel",
+        "short_description": "Better surveys with AI",
+        "long_description": "Voicepanel helps businesses gather rich feedback on their products & services with unprecedented ease. Given a simple prompt, our AI will conduct hundreds of interviews and synthesize actionable insights in minutes.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29392,
+        "company_name": "Skygaze",
+        "short_description": "Content recommendation for the new social web",
+        "long_description": "Bluesky is a Twitter alternative that provides an open marketplace of feeds and lets users choose which ones they want to use. Skygaze makes a feed for Bluesky\u2014it's like if the Twitter feed was a separate product.\u00a0Skygaze's feed is the most popular choice and is a default for all new Bluesky users.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Consumer -> Social"
+    },
+    {
+        "company_id": 29391,
+        "company_name": "Abel",
+        "short_description": "Transforming document review for litigation teams",
+        "long_description": "Abel transforms law firm document review workflows, eliminating the need to choose between depth and breadth. Attorneys use Abel to answer nuanced questions based on the context spread across thousands of documents.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Legal"
+    },
+    {
+        "company_id": 29390,
+        "company_name": "OffDeal",
+        "short_description": "AI-native investment bank for buying SMBs",
+        "long_description": "OffDeal is building an AI-native investment bank for buying and selling small businesses. \r\n\r\nWe use custom AI agents and big data to screen thousands of SMBs each day, matching buyers with the perfect acquisition target in days instead of months. Unlike legacy M&A advisors, we can search for targets for hundreds of buyers concurrently, 24/7. \r\n\r\nWe are a full stack company and own the entire value chain - from first party SMB data and proprietary algorithms, to custom AI tooling and SMB relationships. Since we use AI to sell work, we make money through transaction fees - usually 2-3% of purchase price. \r\n\r\nWe\u2019re excited to bring much needed innovation to an otherwise extremely archaic world of small business M&A \ud83d\ude42\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29389,
+        "company_name": "Delve",
+        "short_description": "HIPAA compliance in days, not months.",
+        "long_description": "Complying with HIPAA can cost companies tens of thousands of dollars and months of work.\r\n\r\nDelve automates HIPAA compliance, making it possible to get compliant in just days.\r\n\r\nThe company provides an all-in-one compliance solution with (1) automated infrastructure, (2) a step-by-step checklist, and (3) real-time monitoring.\r\n\r\nBy reducing compliance obstacles, Delve is making it easier to innovate in healthcare.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Infrastructure"
+    },
+    {
+        "company_id": 29386,
+        "company_name": "Andy AI",
+        "short_description": "Faster clinical documentation for home health nurses",
+        "long_description": "Andy is AI software that completes documentation for nurses doing home visits. Our software saves $8B a year; Tiantian was previously a PM at Google\u2019s healthcare business and Max was a staff engineer on the health team at Apple. \r\n\r\nAndy benefits nurses and the agencies that employ them. Agencies that use Andy see up to 45% more detailed charts, 2x greater nurse productivity, and timely submission (no more billing delays!) With Andy, clinicians get their evenings back. \r\n\r\nHome health is the fastest growing segment of healthcare, doubling to $251B by 2031. Combined with recent nursing shortages and burnout, we\u2019re seeing not just urgency, but excitement and joy, around adopting AI for home health. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29385,
+        "company_name": "Hazel",
+        "short_description": "AI-enabled procurement marketplace for government",
+        "long_description": "Hazel sells AI-powered procurement software to the 19,000 state & local governments who procure $2T a year. Hazel uses LLMs to accelerate and improve a bidding process currently done with 20-year-old technology, bringing in more high-quality bidders and delivering better outcomes for government",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Government"
+    },
+    {
+        "company_id": 29384,
+        "company_name": "Shiboleth",
+        "short_description": "Shiboleth automates lending compliance for financial institutions\u2026",
+        "long_description": "Shiboleth automates consumer lending compliance for financial institutions using AI.\r\nBanks like Cross River Bank use us to save months of manual work by automating audits and drafting reports for the governments. \r\n\r\nLLMs allow whole categories of manual compliance processes to be automated in ways that weren\u2019t possible until recently.\r\n\r\nWe are excited to automate back-office operations and enhance consumer protection in one of the most litigious industries.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Security"
+    },
+    {
+        "company_id": 29383,
+        "company_name": "Kontractify",
+        "short_description": "RFPs for enterprises, powered by LLMs",
+        "long_description": "Kontractify uses LLMs to help enterprises run RFPs. We generate questions, manage workflows, evaluate proposals, and facilitate reverse auctions.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Operations"
+    },
+    {
+        "company_id": 29382,
+        "company_name": "Soundry AI",
+        "short_description": "Professional Quality AI Music Creation",
+        "long_description": "We have built a universal text-to-sound AI generator for musicians and sound designers. Music producers build songs with samples that they've hand crafted with our AI, and sound designers can incorporate generated sound effects into film, TV, and video games. With personalized generations and training data hand-picked by your favorite artists, Soundry AI is your new best friend in the music creation process.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Consumer -> Content"
+    },
+    {
+        "company_id": 29381,
+        "company_name": "Elodin",
+        "short_description": "Modern Software Development Platform for Aerospace Control Systems.",
+        "long_description": "Elodin helps aerospace engineers rapidly design, test, and simulate control systems. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Industrials -> Aviation and Space"
+    },
+    {
+        "company_id": 29380,
+        "company_name": "HostAI",
+        "short_description": "The operating system for managing vacation rentals. ",
+        "long_description": "We\u2019re on a mission to streamline operations for the $120B vacation rental industry. Our all-in-one platform helps vacation rental operators consistently deliver 5-star guest experiences at scale.\r\n\r\nHostAI is a seamlessly integrated SaaS platform for your team to streamline operations, drive revenue, and boost guest satisfaction.  ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29379,
+        "company_name": "Trieve",
+        "short_description": "Infrastructure for search teams building retrieval and RAG",
+        "long_description": "Infrastructure for search teams building retrieval and RAG. Trieve combines search language models with tools for tuning ranking and relevance.\r\n\r\nBuilding excellent search is difficult and can take months to implement then even more time to maintain. Trieve offers production-ready infrastructure that works out of the box to help search teams build adjustable AI search and RAG into their products. With tools for custom models, relevancy weighting, date-recency biasing, semantic full-text hybrid search, recommendations, and more Trieve covers the full spectrum of what a team wants from their discovery infrastructure. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Infrastructure"
+    },
+    {
+        "company_id": 29378,
+        "company_name": "Tensorfuse",
+        "short_description": "Run serverless GPUs on your own cloud",
+        "long_description": "Tensorfuse makes it easy to deploy and manage LLM pipelines on your own cloud. Simply connect your cloud to Tensorfuse, select your model, point to your data and click deploy. Tensorfuse will provision and manage the underlying infrastructure for you. \r\n\r\nBehind the scenes, we manage K8s + Ray clusters, enabling you to scale without LLMOps overhead.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29377,
+        "company_name": "Toma",
+        "short_description": "AI phone automation for auto dealerships",
+        "long_description": "Each year a single dealership in the US misses over 33,000 calls on average. That is millions of dollars in lost business. There are 70,000 dealerships in the US making this a $7B market opportunity. \r\n\r\nToma is equipping dealerships with AI so they never miss a call again and provide a delightful experience to customers.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Operations"
+    },
+    {
+        "company_id": 29376,
+        "company_name": "Carma",
+        "short_description": "Same-Day Auto Repair for Commercial Fleets.",
+        "long_description": "Carma is a B2B managed marketplace for commercial fleet owners to get same-day automotive repair for any vehicle with instant transparent offers and guaranteed pricing. Every year, fleet owners spend $573B on auto repairs globally.\r\n\r\n\r\nFleet owners request any service through our mobile app, which we send to our network of highly-vetted partner service centers. Our partner service centers give users real-time offers on their requested services. \r\n\r\n\r\nOur fleet customers save upwards of 50% when they use Carma vs. the median price for the same service in their zip code, while our partner service centers increase their revenues and obtain new customers.\r\n\r\n\r\nWe are currently accepting commercial fleet customers:\r\n\r\n\r\nIf you own multiple commercial vehicles for your business and are interested in trusted same-day turnaround for your fleet, call or text Muhammad (Carma CEO) at 636-293-5254 or email fleets@joincarma.com.\r\n\r\n\r\nIf you are an owner of a highly-rated automotive service center and are interested in increasing revenue with more profitable high-ticket work, call or text Muhammad (Carma CEO) at 636-293-5254 or email shops@joincarma.com.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Marketing"
+    },
+    {
+        "company_id": 29375,
+        "company_name": "Preloop",
+        "short_description": "Translate your experimental scripts into production ML services",
+        "long_description": "Only 2 out of 10 ML models make it from experiment to production. Preloop helps automate the process of deployment, helping companies realize more value from their machine learning teams, while focusing teams' attention on science instead of engineering.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29374,
+        "company_name": "Superagent",
+        "short_description": "Open-source AI-agents for doing web research",
+        "long_description": "Superagent is an open-source platform for custom AI-agents that do web research. Companies use us to do better sales, marketing, and project management.\r\n\r\nThe agents can reason, browse the web, and access your files. It's open-source, and it's designed for everyone - not just AI experts.\r\n\r\n\ud83e\udd77 How do companies build their own AI-agents:\r\n- No coding or infrastructure needed: Customize AI-agents using simple markup.\r\n- Integration with Airtable: Ideal for business users.\r\n- API and SDKs: Embed AI-agents into any app or third-party system, e.g. Salesforce.\r\n\r\n\ud83d\ude80 By choosing Superagent, companies can:\r\n- Improve Sales: Gather detailed info about potential customers early on. Focus efforts on those most likely to buy, increasing success rates and saving time.\r\n- Personalize Marketing: Connect to CRMs to craft custom marketing messages. AI-agents analyze customer data to send offers that match their interests, boosting engagement and sales.\r\n- Stay Ahead of Competitors: Track what competitors are doing by analyzing market reports, web activity, and social media. Quickly adjust your strategies, find new market gaps, and offer better products.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29373,
+        "company_name": "Bilanc",
+        "short_description": "Unit Economics on autopilot",
+        "long_description": "Automating Finance Analytics using AI.\r\nStarting with Unit Economics to help companies measure profitability at the customer level.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29372,
+        "company_name": "SevnAI",
+        "short_description": "Foundation Models for Graphic Designs",
+        "long_description": "We build foundation models for graphic design. For example, SMBs use them to generate social media graphics 10x faster than hiring designers.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29370,
+        "company_name": "Browser Buddy",
+        "short_description": "Recommendations across the web",
+        "long_description": "Discover your corner of the internet.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Consumer -> Content"
+    },
+    {
+        "company_id": 29369,
+        "company_name": "Astro Mechanica",
+        "short_description": "New jet engines for the new Jet Age.",
+        "long_description": "Astro Mechanica has invented a new kind of jet engine \u2013 the Electric Adaptive Engine. Unlike any existing engine, it\u2019s efficient at every speed. Because it\u2019s efficient at every speed, it enables us to build a new jet aircraft with unique capabilities. It can launch payloads to orbit for 3x cheaper or fly 3x faster than regular passenger aircraft.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Industrials -> Aviation and Space"
+    },
+    {
+        "company_id": 29368,
+        "company_name": "CodeAnt AI",
+        "short_description": "AI to Auto-Fix Static Analysis & Security Vulnerabilities",
+        "long_description": "CodeAnt AI is a DevTool that helps companies find and auto-fix code issues and security vulnerabilities. We're like SonarSource or Veracode, but we don't just detect bad code; we auto-fix it.\r\n\r\nWe are in the code governance space, where we enable companies to enforce their custom best practices across the entire development life cycle. We seamlessly integrate from IDEs to Git hooks, to pull requests, and CI/CD.\r\n\r\nWe are SOC 2 compliant, and are live in small teams to large unicorns.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29367,
+        "company_name": "Draftaid",
+        "short_description": "Go from 3D models to CAD drawings using AI",
+        "long_description": "DraftAid is the world's first generative AI for CAD manufacturing drawings, akin to GitHub Copilot but for CAD. It drastically shortens drawing creation time, turning hours into seconds.\r\n\r\nEvery product that is manufactured - from construction to aerospace, automotive, durable goods, and electronics\u2014relies on drawings. Currently, engineers and designers painstakingly make these essential drawings manually. Draftaid streamlines this process saving teams millions in time and quality. \r\n\r\nThe idea was born out of Abdullah's experience as a mechanical design team member, where he created thousands of drawings and longed for a more efficient process. Partnering with Tahsin, a neighbour with a PhD in AI, and Mohammed, a seasoned engineering VP with experience in construction software, they turned the dream into reality.\r\n\r\nSince their launch in August, DraftAid has engaged customers through targeted outreach and word-of-mouth, securing paid pilots with subsequent contracts valued at $150,000.\r\n\r\nBe a part of ushering in the new era of CAD designs!",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29366,
+        "company_name": "Metofico",
+        "short_description": "No Code Data Analysis for Life Science Research",
+        "long_description": "Metofico provides a no-code data analysis tool tailored for the life sciences. Our platform enables life scientists to analyse complex/massive datasets and extract necessary insights without needing advanced programming skills. This accessibility helps both researchers new to data science and experts save months of work.\r\n\r\nMetofico aims to be the leading centralized platform for data analysis in life science research, covering a wide range of applications from brain activity analysis (like photometry and EEG) to AI-powered detection and tracking of research animals. Our vision is to accelerate research processes and enhance the quality of research outputs across the board. By streamlining complex data analysis and making it more accessible, we\u2019re committed to driving forward scientific discoveries and innovation.\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29365,
+        "company_name": "Ellipsis",
+        "short_description": "Convert technical instructions into working, tested code",
+        "long_description": "Ellipsis is an AI devtool that converts technical instructions into working, tested code. Customers like PromptLayer and Warp (W23) use us to review changes and fix bugs.\r\n\r\nWith Ellipsis, teams get a deep LLM-powered code review on every commit. When a developer wants to make a change, they simply tag us, and Ellipsis submits the fix.\r\n\r\nEllipsis runs in the cloud so developers can make progress on other tasks while Ellipsis answers questions, writes code, and conducts code reviews on their behalf. The product integrates with GitHub, Slack, Linear, and other sources, allowing for thoughtful responses that consider the product roadmap, production logs, and bug reports.\r\n\r\nOur goal is for human engineers to spend more time reviewing code that Ellipsis writes, than writing code themselves.\r\n\r\nThe team launched automatic code review in January and has grown to 30+ customers, with 75% of revenue coming from outside of the W24 batch.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29364,
+        "company_name": "Dime",
+        "short_description": "The Factory Operating System",
+        "long_description": "DIME helps manufacturers manage their factories. Our clients use us to manage their production and track their progress.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29363,
+        "company_name": "SpareChange",
+        "short_description": "Making high-impact, tax-effective philanthropy, available to\u2026",
+        "long_description": " SpareChange is your one-stop for doing good with your money. Make high-impact, tax-effective contributions to the causes you care about. \r\n\r\ngetsparechange.com",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Consumer"
+    },
+    {
+        "company_id": 29362,
+        "company_name": "Pythagora (GPT Pilot)",
+        "short_description": "OSS dev tool that builds entire apps from scratch by talking to you",
+        "long_description": "Pythagora is an open source tool that builds apps from scratch by talking to users. It uses LLMs to automate developer workflows (debugging, refactoring, etc.) and ask user questions whenever it needs feedback.\r\n\r\nIt is an IDE extension built on top of our open-source tool, GPT Pilot, which has over 22k Github stars.\r\n\r\nYou start by describing an app you want to build; then, it asks you questions about the details of the app to write the full app specifications. Once the specs are done, it starts coding. When it finishes a task, it asks you to test the app and tell it if something is incorrect. It iterates with you by changing the code and asking you for feedback until the task is finished. Finally, it commits the code it has written and proceeds to the next task until the entire app is finished.\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29361,
+        "company_name": "Wuri",
+        "short_description": "AI app to read web stories as visual novels with images, videos, audio",
+        "long_description": "Wuri is an app for reading fiction stories that uses AI to transform top web stories into visual novels having audio, images & video in real-time. This opens a new world of storytelling for our users, who prefer a byte sized, audio-visual way of consuming stories.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29360,
+        "company_name": "Open",
+        "short_description": "Autopilot customer support that saves you $100K a year",
+        "long_description": "We solve 80% of your customers' support inflow on phone, email, and web. You reduce your cost by more than 50%\r\n\r\nUsed by companies of all sizes ($6bn mega enterprise, series A, series B)\r\n\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29358,
+        "company_name": "Aedilic",
+        "short_description": "Aedilic is building gpudeploy.com",
+        "long_description": "GPUDeploy is a marketplace for compute. Launch high-performance GPU instances at the best prices online or rent out your idle compute for high return on investment. https://gpudeploy.com",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29357,
+        "company_name": "Salvy",
+        "short_description": "Mobile carrier for businesses in Brazil",
+        "long_description": "Salvy is a mobile carrier for businesses in Brazil. Over 300 companies use Salvy to manage over 5,000 mobile lines, cutting costs by over 50%.\r\nThe founders have worked many years together in Brazil's largest fintechs (Nubank and EBANX).\r\n\r\nToday, every carrier in Brazil has roughly the same network quality - it isn't a differentiator. If you're an IT manager who needs to deploy 2k lines, you want an integrated and seamless solution. You need to deploy this resource, fast. Salvy provides a software layer that makes deploying and managing mobile lines a fast and efficient process, integrated with HRIS, ERPs, and others.\r\n\r\nThis is a massive market: there are 55 million b2b mobile lines in Brazil, which adds up to 5 billion dollars in ARR in just one country. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Operations"
+    },
+    {
+        "company_id": 29356,
+        "company_name": "Centralize",
+        "short_description": "Analyze customer conversations with AI to upsell more and slash churn",
+        "long_description": "Centralize is the new way for pre and post-sales teams to understand their customers. We're building the perfect \"customer brain\" that aggregates and analyzes touch points across time, tools, and stakeholders. Companies use us to hyper-personalize conversations, upsell more, and eliminate churn.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Productivity"
+    },
+    {
+        "company_id": 29355,
+        "company_name": "phospho",
+        "short_description": "Open Source Text Analytics for LLM Apps",
+        "long_description": "Phospho is an open-source text analytics platform for LLM apps in production.\r\n\r\nCompanies like Quivr or Sudowrite use phospho to monitor interactions with their LLM app and take action.\r\n\r\nWe want to be the Datadog the LLM OS.  Text will be the main mean of communication between humans and computers, and also computers to computers. A tool is needed to analyze these flows in real time.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29354,
+        "company_name": "Quantic",
+        "short_description": "Next generation data for Sales teams.",
+        "long_description": "Quantic helps salespeople generate better pipeline. Quantic researches your book of business and presents buying signals, insights, and pipeline opportunities. This helps reps target the right people, at the right time, with the right messaging. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Sales"
+    },
+    {
+        "company_id": 29353,
+        "company_name": "Resonance",
+        "short_description": "Optimally upsell users within your product",
+        "long_description": "Resonance is a platform that maximizes NRR through AI-driven in-product messaging.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29352,
+        "company_name": "Firebender",
+        "short_description": "Find the best leads to sell to",
+        "long_description": "With Firebender, you can qualify any company using natural language over scraped websites, job listings, linkedin posts, and more.\r\n\r\nAsk questions like \u201cDoes this company use large language models?\u201d, \u201cDoes this company need SOC 2 compliance?\u201d, \u201cWhat types of clinic patients does this company serve?\u201d. Then export this list of qualified leads as a CSV to use with your favorite outbound tool.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29350,
+        "company_name": "Aether Energy",
+        "short_description": "AI design and workflow software for solar installers worldwide",
+        "long_description": "Aether is an AI-powered end-to-end platform for rooftop solar installers in the US and Western European markets. \r\n\r\nSome of our innovations:\r\n\r\n- In-house computer vision and fine-tuned AI models built for solar\r\n- Rapid and accurate photovoltaic site design, 10x faster\r\n- Co-pilot for rooftop solar to streamline & automate various tasks for solar installers. \r\n\r\nWhy it\u2019s needed: Today, rooftop solar is still complex, expensive, and inaccurate. More than half of the cost of a rooftop solar project comes from soft costs. We started Aether with the sole aim of reducing solar soft costs. \r\n\r\nOur vision: Aether will be a big player in the young and emerging Solar software vertical, which has a projected 20B Global TAM up for grabs by 2025.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29348,
+        "company_name": "Kiosk",
+        "short_description": "WhatsApp Marketing for E-commerce",
+        "long_description": "At Kiosk, we help companies engage with their customers on their preferred app, WhatsApp.\r\n\r\nIn short, we blend AI agents and traditional marketing tools (Campaigns, Workflows) to generate personalised conversations at scale. Think of us like the MailChimp for WhatsApp, with a conversational AI twist \ud83d\udcac\r\n\r\nWhile WhatsApp is a key revenue driver in markets like India, its vast potential in Europe and Emerging Markets is still largely untapped!",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Marketing"
+    },
+    {
+        "company_id": 29347,
+        "company_name": "Ragas",
+        "short_description": "Building the open source standard for evaluating LLM Applications",
+        "long_description": "The fragmented and proprietary evaluation tools today are leading to significant inefficiencies and confusion among developers. The world needs a standard everyone can rely on and that is why we are building Ragas as the open-source standard. \r\n\r\n\r\nWe have 4k stars on GitHub, 1.3k members in our discord community, and over 80+ external contributors. We also have partnerships with key AI companies like Langchain, Llamaindex, Arize, Weaviate and more to help create a standard.\r\n\r\n\r\nWe already process 5 million evaluations monthly for engineers from companies like AWS, Microsoft, Databricks, and Moody\u2019s and it is growing at 70% month over month.\r\n\r\nWe are building LLM application testing and evaluation infrastructure for Enterprises.\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Infrastructure"
+    },
+    {
+        "company_id": 29346,
+        "company_name": "sync labs",
+        "short_description": "an api to create, reanimate, and understand humans in video",
+        "long_description": "at sync. we're making video as fluid and editable as a word document\r\n\r\nhow much time would you save if you could *record every video in a single take?*\r\n\r\nno more re-recording yourself because you didn't like what you said, or how you said it.\r\n\r\njust shoot once, revise yourself to do exactly what you want, and post. that's all.\r\n\r\nthis is the future of video: *AI modified >> AI generated*\r\n\r\nwe're playing at the edge of science + fiction.\r\n\r\nour team is young, hungry, uniquely experienced, and advised by some of the greatest research minds + startup operators in the world. we're driven to solve impossible problems, impossibly fast.\r\n\r\nour founders are the original team behind the open sourced wav2lip \u2014 the most prolific lip-sync model to date w/ over 9k+ GitHub stars.\r\n\r\nwe \r\n[1] train state-of-the-art generative models, \r\n[2] productize + host them for scale\r\n[3] grow virally through content\r\n[4] upsell into enterprise",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29345,
+        "company_name": "PandasAI",
+        "short_description": "PandasAI is an open-source conversational data analysis platform with\u2026",
+        "long_description": "PandasAI is an open-source library for conversational data analysis. Enterprises can connect their dataframes, databases or datalakes and do data analysis in plain english.\r\n\r\nFor example, PandasAI can be used by everyone in the company to visualize data or to ask complex queries and extract valuable insights for better data-informed decisions.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29343,
+        "company_name": "Infinity",
+        "short_description": "Business banking for cross-border SMBs & Startups",
+        "long_description": "Infinity is a banking and payments platform for cross-border businesses in India. We help our customers make cross-border payments that are 70% cheaper than traditional methods and earn income on idle cash by investing in government securities.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29342,
+        "company_name": "InQuery",
+        "short_description": "Fully managed data lakehouse",
+        "long_description": "InQuery is a Snowflake alternative built on open source technologies. We make it easy for companies to scale their data workloads, powering analytics, machine learning, and AI use-cases at a fraction of the cost.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29341,
+        "company_name": "Markprompt",
+        "short_description": "AI for customer support",
+        "long_description": "Close customer support tickets faster with AI.\r\n\r\nWe\u2019re building AI infrastructure to power customer support at scale. With Markprompt, companies can automate customer support, scale without increasing headcount, and deliver exceptional user experiences.\r\n \r\nScaling customer support with headcount is expensive, with human resources accounting for 90%+ of customer support expenses. On top of that, customer support agents often burn out leading to turnover and reduced quality. As companies grow, so does their expert knowledge, which is hard to access at scale and makes keeping employees up-to-date nearly impossible.\r\n\r\nMarkprompt addresses the root of the information access problem by indexing all available knowledge within a company, setting the foundation for a robust system of record to feed the AI. Built from the ground up with an API-first approach, Markprompt provides SDKs (such as React hooks and components) and no-code tools to enable integrations at all touchpoints in the customer journey.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Infrastructure"
+    },
+    {
+        "company_id": 29340,
+        "company_name": "Tamarind Bio",
+        "short_description": "Easy to use computational biology tools for drug discovery",
+        "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\nOur tools are used by over a thousand researchers, including many biotechs, the NIH, and universities. We currently focus on tools in structural biology, including protein structure prediction, protein design, and molecular docking.\r\n\r\nGet in touch at founders@tamarind.bio",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29339,
+        "company_name": "Anaphero",
+        "short_description": "Automating patient-facing tasks with voice AI",
+        "long_description": "We are solving clinician staffing shortages for hospitals by automating routine patient-facing tasks.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare"
+    },
+    {
+        "company_id": 29338,
+        "company_name": "Swift",
+        "short_description": "Instant deposit API for brokerages and digital banks",
+        "long_description": "Swift is building instant international payments to replace the archaic correspondent banking infrastructure. Our first product is an instant deposit API for brokerages and digital banks, eliminating the legacy 2-3 day ACH process and associated fraud risk.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Finance and Accounting"
+    },
+    {
+        "company_id": 29336,
+        "company_name": "Intercept",
+        "short_description": "Helping CPG brands automatically flag and dispute invalid retail fees",
+        "long_description": "Intercept lets CPG brands challenge incorrect charges from retail chains. It ingests all of a brand\u2019s fees across their retailer portals and emails, flags the fees that can be disputed, and automates away the mundane tasks involved in fee disputes. What previously took a team of people is now manageable by a single person.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Fintech"
+    },
+    {
+        "company_id": 29335,
+        "company_name": "Creo",
+        "short_description": "Build internal tools with AI",
+        "long_description": "Internal tooling is largely constrained to simple, repetitive apps (with forms, charts, cards and tables) that need to be built fast.\r\n\r\nWe make it easy for you to come to our platform, clone our starter, and use our AI to quickly create tools. \r\nWe're code-first, so it's easier for you to use your IDE in case the AI gives you something you want to change.\r\n\r\nFeature summary:\r\n- Starter React repo with sensible defaults,\r\n- Component library for all sorts of use cases,\r\n- Ask for the tool you want with just a prompt,\r\n- Once you deploy this project to our platform, production will have built in authentication, authorisation/team permissions and more.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29334,
+        "company_name": "Decipher AI",
+        "short_description": "Helping engineers understand and fix production bugs",
+        "long_description": "Decipher AI lets engineers identify and resolve production issues by analyzing runtime data and product behavior with AI. Companies use us to monitor their application and to quickly understand what went wrong, the user impact, and how to fix it.\r\n\r\nContact us at founders@getdecipher.com.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29333,
+        "company_name": "Infinity AI",
+        "short_description": "Type a script, get a movie. ",
+        "long_description": "Infinity is a script-to-movie foundation model. Creators provide a script describing the actions and dialogue of their characters and get back a video with highly expressive virtual actors. Our first product allows people to generate talking head videos with AI. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29332,
+        "company_name": "Double",
+        "short_description": "A smarter investing account",
+        "long_description": "Double let users easily build custom direct index strategies while automating things like tax loss harvesting and dollar cost averaging. We\u2019re replacing people\u2019s financial advisors and saving them 1-4% per year in fees. \r\n\r\nWe\u2019re building the next Vanguard - a modern, low fee and powerful investment account. \r\n\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Fintech -> Asset Management"
+    },
+    {
+        "company_id": 29330,
+        "company_name": "Speck",
+        "short_description": "AI assistant for web automation",
+        "long_description": "Speck is an AI assistant that helps knowledge workers automate their repetitive web workflows. Our customers use us to save hours on data entry, CRM updates, and LinkedIn outreach. Since our launch 3 weeks ago, we've published Speck on the Chrome Web Store and acquired 17 paying users. Lucas helped build Sweep, an AI junior developer. Raghav won 7 hackathons with LLM agents.\r\n\u200e\r\nJoin our community: https://discord.gg/speck",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Productivity"
+    },
+    {
+        "company_id": 29328,
+        "company_name": "Guide Labs",
+        "short_description": "Interpretable foundation models that are easy to align",
+        "long_description": "At Guide labs, we build interpretable foundation models that can reliably explain their reasoning, and are easy to align. We provide access to these models via an API. Over the past 6 years, our team has built and deployed interpretable models at Meta, and Google. \r\n\r\nOur models provide explanations that:  \r\n1) provide human-understandable explanations, for each output token, \r\n2) which parts of the input (prompt) is most important for each part of the generated output, and 3) which inputs, in the training data, directly led to the model's generated output. \r\n\r\nBecause our models can explain their outputs, they are easier to debug, steer, and align. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29326,
+        "company_name": "OmniAI",
+        "short_description": "Build on top of unstructured data",
+        "long_description": "Run ML models across your data. Categorize, extract, summarize, translate, and more.\r\n- Connect to a data warehouse - We support Snowflake, Postgres, MySQL, and MongoDB.\r\n- Choose models to run - Define type safe schemas to run against your unstructured data. Use any of the hosted models, or define your own.\r\n- Transform your data - We\u2019ll run those models against your data, and keep your warehouse in sync as new rows/fields are added/deleted.\r\n- Query with SQL - All the transformed data stays in your warehouse. Surface this data in your product, or analyze with your existing BI tools.\r\n\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Infrastructure"
+    },
+    {
+        "company_id": 29325,
+        "company_name": "Keywords AI",
+        "short_description": "Unified DevOps platform to build software with AI.",
+        "long_description": "The only platform you need to launch and optimize your LLM application. \r\n\r\nWe built a unified interface for any model with built-in infrastructure, so you can focus on building a product people love. Integration is dead simple - everything comes with 2 lines of code:\r\n\r\n- Playground and prompt management for testing models and improving prompts\r\n- Beautiful pre-built dashboards to monitor every LLM metric and user log\r\n- Production performance monitoring with auto-evaluations\r\n... and a lot more!\r\n\r\nReach out to team@keywordsai.co if you have any questions. Excited to see what you'll build with us!",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29324,
+        "company_name": "PromptArmor",
+        "short_description": "Security and Compliance for LLM Applications",
+        "long_description": "Ensuring every AI Agent and Application is secure from adversarial attacks, and compliant with the latest legislation. \r\n\r\nReach out for a security audit or pentest!",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Security"
+    },
+    {
+        "company_id": 29323,
+        "company_name": "Zaymo",
+        "short_description": "Interactive email builder for ecommerce brands",
+        "long_description": "Recent changes in email clients made it possible to embed a whole website inside an email.  We've built the first email builder that lets Shopify brands create emails that are fully interactive like websites. \r\n\r\nZaymo emails decrease friction and increase conversion for product marketing and data collection.\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Marketing"
+    },
+    {
+        "company_id": 29322,
+        "company_name": "Glimmer",
+        "short_description": "AI search for massive PDFs",
+        "long_description": "Glimmer is a new way to search massive PDFs using AI.\r\n\r\nIf you've ever dealt with massive PDFs (i.e. over 1,000 pages), you know how broken search can be. You have no choice but to use \u201cCmd-F\u201d and manually sift through thousands of search results to find specific information. Professionals in construction, law, finance, and healthcare spend hours doing this every day.\r\n\r\n\r\nGlimmer makes searching these large documents 10x easier. \r\n\r\n\r\nWhen you upload a PDF, Glimmer uses AI to intelligently index your documents. You can then search your PDF in natural language and get answers with verifiable page sources.\r\n\r\n\r\nYou can get started with Glimmer for free with any kind of PDF at withglimmer.com. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29320,
+        "company_name": "Celest",
+        "short_description": "The Vercel of Flutter",
+        "long_description": "Celest is a backend-as-a-service for Flutter and Dart developers. It empowers Flutter developers with the tools and capabilities they need to become full-stack developers. We are introducing \"Cloud Widgets\", a set of primitives which enable you to declaratively define every piece of your backend and infrastructure in Dart.\r\n\r\nAs the role of the front-end developer evolves towards full-stack proficiency, we recognize that existing tools have fallen short for those specializing in Flutter. Using the programming language and patterns Flutter developers already know from building their frontend, Celest enables developers to build and connect their apps to their backend with no additional tooling.\r\n\r\nWe enable Flutter developers to concentrate on building features and delivering value to their customers rather than learning additional domains and fragmenting themselves across disparate toolchains.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Infrastructure"
+    },
+    {
+        "company_id": 29319,
+        "company_name": "Meticulate",
+        "short_description": "The AI engine for world-class business research",
+        "long_description": "Meticulate is an AI engine that gives business professionals easy access to world-class financial research. Hundreds of repeat users at BCG, KKR, Khosla, BofA, and EY use Meticulate today to build landscapes and market maps in minutes rather than hours. Try it now at meticulate.ai!",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Finance and Accounting"
+    },
+    {
+        "company_id": 29317,
+        "company_name": "CloudCruise",
+        "short_description": "Enabling AI to use computers like humans",
+        "long_description": "CloudCruise is AI-enabled RPA software. Our customers use us to automate critical business processes; work that was previously outsourced or done by employees. Customers have stopped using freelance marketplaces like Fiverr and instead have moved over to CloudCruise. This is because our web agents are more accurate, faster and require less management than using random humans. That's why since launching 6 weeks ago, we\u2019ve already run more than 400k browser actions, growing 90% week over week.\r\nPreviously, we launched a new business line at YT and grew it from 0 to $1B and I led research at Oxford improving vision transformers that are now the foundation for what we\u2019re building at CloudCruise.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29315,
+        "company_name": "Attunement",
+        "short_description": "Remote monitoring platform for behavioral health",
+        "long_description": "Attunement is the first remote monitoring platform that specializes in behavioral health. We provide multimodal assessments and treatment recommendations to help with the mental health crisis experienced by 57.8 million Americans.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare -> Therapeutics"
+    },
+    {
+        "company_id": 29314,
+        "company_name": "Lucite",
+        "short_description": "Automating deliverables for finance professionals. ",
+        "long_description": "Lucite is a finance productivity software that automates investment banking-style presentations and research. Led by a former investment banker / investor and a former Meta software engineer, the team is changing the finance professional workflow by automating tedious work and unlocking time for analysis and human expertise. Lucite's free demo, live on its website, generates presentations for public and private companies by searching the web, analyzing public filings, integrating with financial data sources, and leveraging LLMs. Through its enterprise offering, Lucite embeds directly into the workflow and automates slides in the customers' custom format with proprietary data integrations. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29313,
+        "company_name": "Selera Medical",
+        "short_description": "One-time, device-based treatment for heart failure",
+        "long_description": "Heart failure impacts millions worldwide and is associated with poor quality of life and high mortality rates. Because the heart cannot pump efficiently, fluids buildup around the body. Fluid overload is the main driver behind patient symptoms (shortness of breath, fatigue, chest pain, etc.) and hospitalizations. Our minimally invasive device leverages the body's innate fluid management system to offload trapped fluid and prevent subsequent rounds of buildup. The one-time procedure has sustained effect -- keeping patients healthier, happier, and out of the hospital.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare -> Medical Devices"
+    },
+    {
+        "company_id": 29312,
+        "company_name": "OneGrep",
+        "short_description": "AI Observability Copilot for Engineers",
+        "long_description": "OneGrep is an Observability copilot that helps engineers resolve incidents 10X faster while being more cost-efficient. It plugs into existing telemetry pipelines and knowledge bases so that software engineers can resolve incidents, with real-time data, in minutes instead of hours.\r\n    \r\nAchintya and Brian are technical co-founders who have deep domain expertise in building and operating systems at scale at Coinbase, Disney, and Amazon. Achintya led the Search Team at Disney enabling DisneyPlus to scale to 70M users in two weeks. Brian was a founding engineer on the team that built the Incident Management Platform at Amazon that helps 30k DAUs in Amazon resolve critical incidents every day.\r\n    \r\nhttps://www.onegrep.dev",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29311,
+        "company_name": "Parasale",
+        "short_description": "AI Recruiter: Find and Engage Candidates on Autopilot",
+        "long_description": "Parasale is an AI recruiter. It can find, engage and schedule candidates for you. We're empowering founders and recruiters to automate their candidate outbound to reach quality candidates faster. We\u2019re building Parasale based on our deep experience in recruiting as early engineers at Gem (S17), a recruiting tech unicorn.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29310,
+        "company_name": "Tusk",
+        "short_description": "AI agent that fixes customers' bugs instantly",
+        "long_description": "Tusk is an AI coding agent that fixes customers' bugs instantly. Engineers use Tusk to automatically complete annoying bug tickets, increasing customer NPS while reducing context-switching.\r\n\r\nTusk integrates with Linear, Jira, Notion, and GitHub so that it takes one click to push a hotfix. Simply assign a ticket to Tusk. Our AI will traverse your codebase for context, create a pull request, and then test the change to make QA easy.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29309,
+        "company_name": "PartnerHQ",
+        "short_description": "A marketplace for B2B businesses to buy warm intros. ",
+        "long_description": "PartnerHQ is building the next generation LinkedIn. We are creating the world\u2019s most valuable and accurate professional network graph by capturing and indexing vast quantities of relationship signals. \r\n\r\nIndividuals use PartnerHQ to grow and monetize their networks. B2B companies use PartnerHQ to buy warm intros and drive high-value sales. \r\n\r\nPartnerHQ was created during Y Combinator\u2019s W24 cohort and launched in February of 2024. Since launch we have signed on hundreds of paying companies, domestic and international. 97% of all users have come inbound or word-of-mouth. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Sales"
+    },
+    {
+        "company_id": 29308,
+        "company_name": "atopile",
+        "short_description": "We make tools to design electronics circuit boards with code",
+        "long_description": "atopile is a new language to design electronic circuit boards with code. We replace point and click graphical interfaces with code to bring software level automation and reuse to the field of hardware design. Our project is open source on GitHub! https://github.com/atopile/atopile",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29307,
+        "company_name": "Blume Benefits",
+        "short_description": "The AI copilot for health insurance brokers.",
+        "long_description": "Blume is a web app that streamlines insurance quoting, renewal, and revenue ops processes for health insurance brokers. We are working with our first cohort of health insurance brokers to help them save the, on average, 6 hours of manual data entry they do every week.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare -> Healthcare IT"
+    },
+    {
+        "company_id": 29306,
+        "company_name": "Airfront",
+        "short_description": "AI automation platform for your email inbox",
+        "long_description": "Airfront uses AI to automate manual tasks directly from your inbox. Unlike other automation tools, our platform fully understands the context behind each email and enables smart workflows such as extracting data from emails and attachments, syncing information to CRMs, and auto-drafting responses.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29305,
+        "company_name": "SynsoryBio",
+        "short_description": "\"If-then\" conditional logic for protein drugs",
+        "long_description": "SynsoryBio is creating next generation, protein therapeutics that sense where they are in the body and only activate at diseased tissue. This technology platform has the potential to expand the therapeutic window of highly potent drugs and apply to many diseases such as cancer and autoimmune disorders.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare -> Drug Discovery and Delivery"
+    },
+    {
+        "company_id": 29304,
+        "company_name": "Yoneda Labs",
+        "short_description": "Foundation Model for Chemical Manufacturing",
+        "long_description": "Yoneda Labs provides software to help chemists optimise reactions. When chemists make a drug or a material, we help them figure out the best reaction parameters such as temperature, concentration and catalyst.\r\n\r\nWhen Jan was working at chemical labs, he experienced the struggle of spending weeks guessing reaction conditions. We then started experimenting with ML to speed up the process.\r\n\r\nNow, as a team of three friends from the University of Cambridge, we\u2019ve spent the last month combining our domain expertise in Computer Science, Machine Learning and Chemistry to develop state of the art models for reaction optimisation.\r\n\r\nAlthough ML is becoming well established in other fields, current chemical models generalise poorly and require lots of programming experience. We make our models easily accessible to chemists in the lab.\r\n\r\nFinding the right conditions quickly allows pharmaceutical companies to test more drugs, and finding better optima makes manufacturing process cheaper and more environmentally friendly.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29303,
+        "company_name": "TokenOwl",
+        "short_description": "AI portfolio tools for the next generation of finance",
+        "long_description": "TokenOwl aggregates crypto and other financial accounts in one place with trustless AI. It lets highly active traders calculate taxes with greater accuracy and generate AI powered insights about their portfolio.\r\n\r\nUsers can execute trades with prompts, build custom dashboards, and query their logs in natural language. Low fee networks like Solana have brought a new generation of traders with thousands of transactions, and TokenOwl saves them hours of time and unlocks analytics that lead to higher profitability.\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29302,
+        "company_name": "Hona",
+        "short_description": "AI to help physicians intake and treat patients",
+        "long_description": "Hona integrates with electronic health record systems to collect and condense medical histories, enabling providers to fully understand their patients by finding data previously lost in mountains of charts. It searches nationwide for patient data based on providers' schedules, condensing notes, lab results, and more into specialty-specific clinical summaries with links to original sources. Hona then converts its clinical summaries into value-based care metrics, risk scores, and quality measures for practice-level insights.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29301,
+        "company_name": "Topo",
+        "short_description": "AI sales agent custom trained for each company to reach the best leads",
+        "long_description": "We are helping B2B companies reach the right leads with an AI sales agent custom trained on their knowledge.\r\n\r\n\r\n\r\nThe goal is to reproduce the behavior of a sales top performers:\r\n\r\n- They know the product, the industry, the pain points, and the company's value proposition perfectly (trained on datas from your knowledge base, calls transcript, CRM...). \r\n\r\n- They will find the right leads, ready to buy, based on buying signals in the industry-specific channels (Linkedin, G2, Github...) or on the company's website visitors.\r\n\r\n\r\nThat's exactly what the agent can do!\r\n\r\nThink of it as an expert SDR in your industry, ramp up in minutes. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Sales"
+    },
+    {
+        "company_id": 29300,
+        "company_name": "Trellis",
+        "short_description": "AI-powered Snowflake for unstructured data",
+        "long_description": "Trellis converts your unstructured data into SQL-compliant tables with a schema you define in natural language. With Trellis, you can now run SQL queries on complex data sources like financial documents, contracts, and emails. Our AI engine guarantees accurate schema and results.\r\n\r\nLeading enterprises use Trellis to:\r\n\r\n1. Unlock hidden revenue in their customer data (e.g., Underwriting teams use Trellis to extract key features from transaction data and build better risk models.)\r\n2. Supercharge RAG applications by enabling end-users to ask analytical questions not possible before with traditional Vector DB (e.g., what are the top three features that users are requesting)\r\n3. Enrich their data warehouse with business-critical information (e.g., Retrieving detailed pricing and quantity information of products sold on competitor websites)",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29299,
+        "company_name": "Ecliptor",
+        "short_description": "Unlocking revenue for devtools by finding product champions with AI.",
+        "long_description": " Modern sales tools can't capture PLG & bottoms-up engagement across touchpoints meaning they are ill-suited for devtools. We unify & de-anonymize profiles across developer touchpoints (e.g github, linkedin, twitter, etc) and integrate with product data to surface highly engaged product champions. By uncovering product, marketing & community-qualified leads, we give devtools a view into their product's buying journey. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29298,
+        "company_name": "Greenboard",
+        "short_description": "'Rippling' for Financial Compliance and Operations ",
+        "long_description": "Greenboard is building a singular, AI-powered platform to handle management of the entirety of financial firms\u2019 compliance programs, and eventually all back office processes. Today, financial institutions use Greenboard to detect risk using AI and to rip out and replace the bad legacy back office tooling they have wanted to get rid of for years.\r\n \r\n\r\n\r\nGreenboard's mission is to enable financial institutions to operate their back office teams at a higher standard, with half of the headcount. We\u2019re starting with compliance",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Fintech"
+    },
+    {
+        "company_id": 29297,
+        "company_name": "Eggnog",
+        "short_description": "Youtube for AI-generated content",
+        "long_description": "Eggnog is the Youtube for AI-generated content. The initial product is the only AI video platform on the market that generates consistent characters. The vision is to have the largest library of remixable characters and sets for users to collaboratively build and watch AI-generated content. Eggnog launched a week ago, and videos made on the platform are getting 100k views on Twitter.\r\n\r\nTeam: Sam (BS, Applied Math from Harvard) was a data scientist at Facebook and Quora working on newsfeed and creator monetization. Jitesh (BS, MEng from MIT CS) was a consultant at McKinsey and PM at Flexport. \r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29295,
+        "company_name": "Artisan AI",
+        "short_description": "AI Employees Called Artisans, Starting With A BDR",
+        "long_description": "At Artisan, we're on a mission to create the most advanced human-like digital workers, called Artisans, and the software operating system for startups across verticals. We're starting with sales through our Artisan Sales platform and Ava, The Sales Rep Artisan. \r\n\r\nOur first Artisan, Ava, is a BDR who automates the entire outbound sales process and can be set up with a 10-minute conversation. Ava creates the user's ICP, prospects with her database of over 270M contacts, does lead research, crafts & sends highly bespoke email sequences, and books meetings into sales reps' calendars.\r\n\r\nWe recently launched Artisan Labs, our research lab where we're pioneering the foundational technologies required to create human-like digital workers. \r\n\r\nThis is the next Industrial Revolution.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29294,
+        "company_name": "Octolane AI",
+        "short_description": "Building AI-first Salesforce",
+        "long_description": "Building AI-first Salesforce. Our CRM does a lot more than just storing customer data. It uses AI to find the best customers, reach out to them and close them.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Sales"
+    },
+    {
+        "company_id": 29293,
+        "company_name": "SuretyNow",
+        "short_description": "The Modern Surety Bond Platform",
+        "long_description": "Surety bonds are financial guarantees that businesses must purchase to comply with government regulations. For example, all contractors must have a surety bond to bid and work on federal construction projects. It is a $8b opportunity in the US. \r\n\r\nSuretyNow is building the surety bond platform for the 21st century. Businesses can apply for bonds and receive affordable quotes online in minutes. We offer the fastest and simplest online experience for getting surety bonds.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Fintech -> Insurance"
+    },
+    {
+        "company_id": 29291,
+        "company_name": "Roe AI",
+        "short_description": "Data warehouse to query unstructured data like docs, webs, imgs & more",
+        "long_description": "Roe AI is the next-generation AI-powered data warehouse to store, process, and query unstructured data like documents, websites, images, videos, and audio. By making the impossible data possible, we help data teams become strategic enablers.\r\n\r\nData lies at the heart of strategic decision-making, steering enterprises toward their KPIs. Roe AI accelerates these successes by providing intuitive and intelligent multi-modal data extraction, data classification & multi-modal RAG via Roe's SQL engine.\r\n\r\nBook us a call to discover how Roe AI can take your enterprise's data intelligence to the next level https://calendly.com/roe-ai/intro\r\n\r\nThe future of data science is here.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Infrastructure"
+    },
+    {
+        "company_id": 29288,
+        "company_name": "Arini",
+        "short_description": "AI receptionist for dentists",
+        "long_description": "Arini is an AI receptionist for dentists that answers phone calls, and schedules appointments. Most dental appointments are scheduled over the phone by overworked receptionists who put patients on hold and miss a third of incoming calls. This costs clinics a 15% loss in revenue.\r\n\r\nPrivate equity investment fueled large dental groups to acquire thousands of clinics in the past few years. We are selling to these groups, since their clinics have a standardized tech stack. They\u2019re also growing really fast - in just two years they will make up 40% of the US dental market.\r\n\r\nDental is just the beginning.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29287,
+        "company_name": "Paradigm",
+        "short_description": "Your AI intern to automate repetitive tasks.",
+        "long_description": "Paradigm is building AI agents that integrate with your existing tools and workflows to automate tasks. We think of these agents as able to handle the most repetitive parts of your work while iterating with your feedback, just like an intern would. \r\n\r\nWe are starting by automating the most repetitive tasks surrounding lead generation, email outreach, research, and data collection. Paradigm integrates with hundreds of third-party data sources to find leads and make insights customers can\u2019t get anywhere else, including event-based triggers on new incorporations and product launches. It then drafts bespoke emails for each lead that imitate your exact tone and style.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29286,
+        "company_name": "PointOne",
+        "short_description": "Automated timekeeping and billing for law firms.",
+        "long_description": "Lawyers have to manually track all their client work in 6-minute increments. PointOne uses AI to completely automate time tracking and bill review, helping law firms collect more revenue and saving lawyers hours each week.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Legal"
+    },
+    {
+        "company_id": 29285,
+        "company_name": "Patchwork",
+        "short_description": "Your team\u2019s AI powered communication tool",
+        "long_description": "Patchwork replaces your inefficient Slack with an intelligent feed personalized for each team member with all of their daily updates, design and engineering discussions, and announcements. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Consumer"
+    },
+    {
+        "company_id": 29284,
+        "company_name": "Starlight Charging",
+        "short_description": "Ultra-low-cost EV charging for condos and apartments",
+        "long_description": "Starlight Charging offers ultra-low-cost EV-charging to condos and apartments. Our power-balancing software enables our network of installers to install chargers without expensive infrastructure upgrades, cutting the cost by 10x compared to any other option.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Industrials -> Energy"
+    },
+    {
+        "company_id": 29283,
+        "company_name": "Assembly",
+        "short_description": "Contextual Code Search for engineering teams ",
+        "long_description": "Assembly is a code context engine that helps developers understand why code works the way it does. Developers can not only search through their codebase, but also Slack, Linear, Notion and more to find the hidden relationships between code and context sources. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Productivity"
+    },
+    {
+        "company_id": 29281,
+        "company_name": "MathDash",
+        "short_description": "Turning Math into a Sport",
+        "long_description": "MathDash is an online live math-competition platform that gets students addicted to learning. Our target audience already spends thousands of hours doing math questions competitively, and we've *already* gotten the best of the best to switch to doing problems on our site - an average of 65 minutes a day among our 200 most active users, and a total of over 150,000 arithmetic questions solved in just the last week! Why? Because it is more thrilling and exciting to compete live, see yourself on a leaderboard, and improve your 'ELO' rating. \r\n\r\nWe are USA Math Olympians, and have been the top power users on every single product marketed towards competitive math learners. What's missing is the math game that allows anyone at any level to play with math on demand and compete live at their level, whether it's in the back of an Uber or while training for a math competition.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Real Estate and Construction -> Housing and Real Estate"
+    },
+    {
+        "company_id": 29278,
+        "company_name": "Leaping",
+        "short_description": "Automate bug resolution",
+        "long_description": "When bad software gets shipped, software companies burn a lot of money and customer trust fixing it. Most software engineers will tell you they spend more time fixing code than writing it, which will only become more true as AI code assistants gain adoption. Leaping autonomously root causes bugs and generates tested code fixes.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29277,
+        "company_name": "Basalt Tech",
+        "short_description": "Autonomy in space, for every mission",
+        "long_description": "Basalt Tech is a spacecraft OS company based in San Francisco. We're building Dispatch: An OS which allows different types of satellites to work together, and produces optimized instructions for fleets of spacecraft. The company is founded by Max Bhatti and Alex Choi, lead engineers at the MIT CubeSat program. Previously, the duo worked as systems engineers at SpaceX, and the UK Ministry of Defense. Basalt Tech recently received its seed investment as part of the Y Combinator W24 batch, and is currently in technical development.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Industrials -> Aviation and Space"
+    },
+    {
+        "company_id": 29276,
+        "company_name": "Carousel Technologies",
+        "short_description": "Professional AI toolkit for PowerPoint",
+        "long_description": "We help investment bankers & consultants prepare materials faster & with fewer errors.\r\n\r\n\r\nCarousel is a PowerPoint plugin carrying a suite of tools designed to help junior professionals save time while putting together decks. \r\n\r\n\r\nOur first tool brought a supercharged version of Word's \"Track Changes\" to PowerPoint so deal teams could quickly review each other's work, speeding up the feedback loop of giving and turning comments by 10x.\r\n\r\n\r\nOur second tool uses computer vision to populate charts and tables in PowerPoint based on Excel data, as well as extract table data from PDFs into Excel with two clicks.\r\n\r\n\r\nWe've got many more features on the way that build out a complete toolbelt, including an AI copilot for PowerPoint that can handle complex, multi-step tasks, outperforming Microsoft's native copilot.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29275,
+        "company_name": "Agentic Labs",
+        "short_description": "AI system design tools for dev teams",
+        "long_description": "Agentic Labs is making software design and architecture less painful by building AI into the process. Today, developers have no shortage of tools for instantly creating chunks of code, but designing the systems that integrate this code is the hardest and most manual part of software engineering.\r\n\r\nOur first product is Glide, an AI-first editor purpose-built for writing technical design docs. It connects to your codebase and saves your engineering team time on triage, planning, and implementation of complex code changes.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29274,
+        "company_name": "DaLMatian",
+        "short_description": "The first autonomous AI data analyst agent",
+        "long_description": "DaLMatian is the first autonomous AI data analyst. We're building a multi-step reasoning agent that combines text-to-sql, segmentation, anomaly detection, and other tools to help decision makers generate more revenue.\r\n\r\nFounded by three friends who met in undergrad at Princeton, our experience includes AI at Google Research, engineering at Google & Duolingo, quant trading at Virtu, and analytics at Riskified.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29273,
+        "company_name": "Pivot Robots",
+        "short_description": "AI for Robot Arms in Factories",
+        "long_description": "Pivot Robots makes AI software for robotic arms that helps manufacturers automate their most labor intensive tasks. We are starting out with the dangerous task of metal grinding and are currently deploying our software on 10+ robots in a cast-iron foundry. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Industrials -> Manufacturing and Robotics"
+    },
+    {
+        "company_id": 29272,
+        "company_name": "Aidy",
+        "short_description": "We help businesses and nonprofits apply for grants",
+        "long_description": "Aidy uses AI to make it easier to apply for the $1T of grants awarded in the U.S. each year. Applying for grants is expensive and time consuming, but many startups and nonprofits rely heavily on grant funding to survive. Aidy sources and qualifies funding opportunities, then helps users draft and submit applications all in one place. With built-in reporting and compliance tools, managing grant awards with Aidy is a breeze.\r\n\r\nIn our previous grant-making roles at The Rockefeller Foundation and the U.S. Department of Housing and Urban Development, we saw how difficult it is for organizations to apply for grant funding. We quickly realized the enormous potential of AI in making funding more accessible. From there, Aidy was born!",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Operations"
+    },
+    {
+        "company_id": 29271,
+        "company_name": "DGI Apparel",
+        "short_description": "Expedia for ordering blank apparel",
+        "long_description": "DGI Apparel is a B2B marketplace for custom screenprinters to purchase all of the supplies needed to operate their business. DGI enables users to connect their existing vendor accounts to compare prices, inventory, and shipping time across all of their vendors on a single website. They can also manage all of their vendor carts, checkout, and view purchase tracking and analytics right from DGI.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Supply Chain and Logistics"
+    },
+    {
+        "company_id": 29270,
+        "company_name": "Buster",
+        "short_description": "Infrastructure to connect LLMs and databases",
+        "long_description": "Buster is an infrastructure platform that engineering teams use to connect their database to their LLM applications. We provide our customers with tooling for data cataloging, fine-tuning, security, evaluations, retrieval, sql generation, and more.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29269,
+        "company_name": "Garage",
+        "short_description": "Marketplace for used firefighting equipment.",
+        "long_description": "Garage is a marketplace for pre-owned equipment, starting with firefighting equipment. \r\n\r\nGarage helps fire departments buy and sell used equipment in seconds rather than days. Our marketplace handles payments, freight, and financing \u2013 making buying and selling equipment easy & secure.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29268,
+        "company_name": "Mango Health",
+        "short_description": "We get physicians paid for sending patients to therapy.",
+        "long_description": "Mango Health gets physicians paid for sending patients to therapy. Our AI-optimized platform allows therapists to build their practice, while enabling primary care providers to get reimbursed, leveraging new reimbursement codes that facilitate this relationship. \r\n\r\nConnect with us here -> jamie@themangohealth.com",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare -> Healthcare IT"
+    },
+    {
+        "company_id": 29267,
+        "company_name": "Argon AI, Inc.",
+        "short_description": "AI for Pharma Intelligence ",
+        "long_description": "Argon AI is a platform where biopharma and life sciences professionals can execute complex and data driven workflows using natural language. We help professionals get thorough answers to questions about clinical trials, existing treatments, healthcare landscape, and the competitive market in minutes rather than months. \r\n\r\nPrior to starting Argon, Samy was responsible for Flatiron Health\u2019s (Roche) first data analytics project which eventually led to the start of the Flatiron Services business unit. There, he saw first-hand the heavily manual process that biopharma companies struggle through to get the insights they need to drive forward their drug development programs. He also helped close over $6M+ in ARR and is an expert in enterprise pharma sales.\r\n\r\nCyrus previously led engineering teams and built 0 to 1 across pre-seed and unicorn startups, managed mission-critical trade generation systems at Bridgewater, and held AI advisory roles at various startups. Cyrus has a duel degree in EE and CS from USC.\r\n\r\nBreakthroughs in AI present an opportunity to reinvent biopharma and life science workflows to reduce the time and cost of bringing treatments to patients where delays in bringing a drug to market can cost a pharma company $3M / day.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare"
+    },
+    {
+        "company_id": 29266,
+        "company_name": "nCompass Technologies",
+        "short_description": "Deploy hardware accelerated AI models with only one line of code",
+        "long_description": "nCompass is a platform for acceleration and hosting of open-source and custom AI models. We provide low-latency AI deployment without rate-limiting you. All with just one line of code.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29265,
+        "company_name": "Pretzel AI",
+        "short_description": "Open-source & AI-native replacement for Jupyter Notebooks",
+        "long_description": "**Jupyter is used by millions** of data scientists and analysts but it has _many_ problems.\r\n\r\n**Pretzel fixes Jupyter's problems** with native AI-tooling, collaboration, modern code-editing features, native SQL support and a visual, AI-assisted data exploration and dashboarding suite.\r\n\r\n**We're two ex-Stripe founders**. Prasoon worked as a Data Scientist at Stripe, Goldman Sachs and Klarna for over 7 years.\r\n\r\nWe recently launched on GitHub and got **1000 GitHub stars in two weeks**, 500+ DAU, usage at large companies like Stripe and Bayer and 7 new code contributors.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29263,
+        "company_name": "Apriora",
+        "short_description": "Your AI recruiter for interviewing and identifying the best talent",
+        "long_description": "Apriora conducts live interviews with an AI recruiter. Companies use us to get the best hiring signal on their applicant pool and hire in a fraction of the time.\r\nOur AI recruiter has a live conversation over a video call with each of your candidates based on the interview questions you choose or that are recommended based on the job description. During the interview, our AI asks personalized follow-up questions in real-time based on the candidate's responses.\r\nOur AI recruiter can be customized to your roles in minutes and has already conducted thousands of interviews across engineering, IT, retail, hospitality, and more.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29261,
+        "company_name": "malibou",
+        "short_description": "the first all-in-one payroll and HR software for French SMBs",
+        "long_description": "malibou is a web application helping French SMBs to manage employees, run payroll and track compliance in a single app.\r\n\r\nWhen processing payroll in France, you either have the choice between an accountant with good advice but no way to connect an HRIS with him, or a good HRIS that does not include payroll services. It was time for a change, to finally bring payroll and HR at the same place. \r\n\r\nDue to increasing competition in the space, French payroll engines have just opened their APIs. This allows us to offer a unified payroll and HR solution, which wasn't possible before.\r\n\r\nmalibou was launched 4 months ago and helps more than 40 companies to manage and pay hundreds of employees.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29260,
+        "company_name": "Quary",
+        "short_description": "The first in-browser analytics engineering platform",
+        "long_description": "Quary is the first analytics engineering platform that brings the entire model-test-deploy workflow into the browser. \r\n\r\nAt our first customer, a fast-growing fintech company, Quary empowers analysts in the growth team to self-serve, contribute, and reduce reliance on the data engineering team, letting teams ship metrics faster & executives get answers sooner",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29259,
+        "company_name": "Hemingway",
+        "short_description": "AI Patient Scheduler for Dentists",
+        "long_description": "Hemingway is an AI patient scheduler for dental practices. Our agent books new appointments, manages cancellations, and verifies insurance over phone and text. It books on average two new patients everyday, worth thousands in net new customer revenue per week. \r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29258,
+        "company_name": "Tile",
+        "short_description": "AI-first notebook for building operational data apps",
+        "long_description": "Create production-grade data automations and applications without writing SQL or code",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Unspecified"
+    },
+    {
+        "company_id": 29257,
+        "company_name": "Adagy Robotics",
+        "short_description": "Rescuing robots",
+        "long_description": "Adagy is a remote intervention service that rescues robots when they fail. For example, when a tractor robot gets lost in a field, instead of calling the farmer for help, it can now call Adagy, whose operators will take control of the robot and remotely drive it back to safety. \r\n\r\nWe\u2019re starting with trained human operators assisted by generative AI, and as we collect more data, our model will learn to handle more of the edge cases. \r\n\r\nWe want to see a world with more robots, so we\u2019re addressing the biggest problem in robot deployment: reliability. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29256,
+        "company_name": "Momentic",
+        "short_description": "Automated software testing with AI",
+        "long_description": "Momentic lets developers author E2E tests 10X faster. We make AI do the heavy lifting for you: finding elements, reasoning about assertions, visual comparisons, and even generating whole test cases!\r\n\r\nMomentic's low-code test editor replaces traditional test scripts with AI-powered, self-healing steps. It seamlessly integrates into your existing workflows: from local development to CI/CD environments and production.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29254,
+        "company_name": "Reducto",
+        "short_description": "Unlocking data behind complex documents",
+        "long_description": "Reducto offers robust and reliable document ingestion for any workflow. Our API allows you to convert complex, unstructured documents into structured outputs that are perfect for RAG, process automation, and more. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29253,
+        "company_name": "Vectorview",
+        "short_description": "Building custom evaluation tasks for AI",
+        "long_description": "Custom capability evaluations for foundation models and LLM-agents to benchmark safety, risk and performance",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29252,
+        "company_name": "Maia",
+        "short_description": "AI relationship app that keeps couples together",
+        "long_description": "Maia helps couples connect more each day. Trained by relationship experts, Maia offers daily activities, personalized advice, proactive insights, quizzes and games through AI and relationship science.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Consumer -> Social"
+    },
+    {
+        "company_id": 29249,
+        "company_name": "Nuanced, Inc.",
+        "short_description": "Nuanced detects AI fraud, deepfakes, and misinformation. ",
+        "long_description": "Nuanced detects AI fraud, deepfakes, and misinformation. We have created the most accurate AI-generated image detection technology that exists today. \r\n\r\nWe train our proprietary models continuously to keep up with new generative AI technologies as they emerge. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29247,
+        "company_name": "Precip",
+        "short_description": "High precision AI weather models",
+        "long_description": "Precip uses AI to make hyperlocal weather observations. We\u2019re started with the most important dimension of weather: rain. For example, one of our customers uses Precip daily to make sure their heavy trucks won\u2019t get stuck in muddy fields.\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29246,
+        "company_name": "Tracecat",
+        "short_description": "Open source automation platform for security alerts",
+        "long_description": "Tracecat is the open source Tines / Splunk SOAR alternative.\r\n\r\nSecurity engineers use our platform to build AI-assisted workflows that automate investigations and incident response. We're building the easiest way for security teams to fight burnout and reduce mean time to respond.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Security"
+    },
+    {
+        "company_id": 29245,
+        "company_name": "Kabilah",
+        "short_description": "Simplifying Patient Handoff for Nurses",
+        "long_description": "Currently, 80% of serious medical errors occur at patient handoff. Kabilah improves the patient handoff workflow by replacing commonplace paper report sheets with AI-powered advocates for each patient. Within seconds, nurses can get up to date on patient medical histories via generated summaries and interactive chats with EHR data. A dynamic set of components allows for customized advocates, only displaying pertinent information about each patient. At the end of each shift, a single click allows the outgoing nurse to send auto-generated patient handoff notes. Not only is Kabilah elevating efficiency while alleviating burnout, but it's also empowering nurses to improve patient outcomes.\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare"
+    },
+    {
+        "company_id": 29244,
+        "company_name": "Sonia",
+        "short_description": "AI Therapy for Mental Health",
+        "long_description": "Sonia is an AI therapist that conducts entire therapy sessions both by voice and text via a phone app. 70 million Americans who struggle with their mental health can now access therapy for $200 per year instead of $200 per session. Founded by a team of MIT researchers who published 9 papers on AI at conferences like NeurIPS.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare -> Consumer Health and Wellness"
+    },
+    {
+        "company_id": 29241,
+        "company_name": "MAIHEM",
+        "short_description": "AI agents that test AI products ",
+        "long_description": "MAIHEM creates AI agents that test AI products. We enable companies to automate their AI quality assurance, enhancing AI performance and reliability before and after deployment.\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29239,
+        "company_name": "ion design",
+        "short_description": "Instantly converts designs into clean code",
+        "long_description": "ion design is building a new layer on the software development stack, automating front-end engineering through a design system and code generation.\r\n\r\nWe started with a pipeline that automatically converts Figma designs into clean React code that's tailor-fitted to the customer codebase. We re-use your existing components and variables from your codebase in our generations and can automatically generate PRs and merge conflicts from Figma.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29238,
+        "company_name": "Duckie",
+        "short_description": "AI technical support engineer that handles tickets.",
+        "long_description": "Duckie is an AI technical support engineer that reduces unnecessary ticket escalations by troubleshooting tricky technical issues and suggesting resolutions.\r\n\r\nIt sits in your support channel, answers technical questions, troubleshoots technical issues, and intelligently triages and escalates to dev teams.\r\n\r\n1. Who are using Duckie: tier 2 technical support teams\r\n2. Flexible integrations with knowledge sources (Slack, Jira, Google docs, Confluence, Sentry, Github, and beyond!)\r\n3. Takes <5 mins to onboard\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29233,
+        "company_name": "Happenstance",
+        "short_description": "People search powered by AI",
+        "long_description": "Happenstance is people search powered by AI.\r\n\r\nFor example, you ask Happenstance \"find people who work on notification systems at big companies\", and it comes back with two who follow you on Twitter and five who are connected to your partners. That kind of thing you just can't do on LinkedIn.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Consumer"
+    },
+    {
+        "company_id": 29231,
+        "company_name": "Ubicloud",
+        "short_description": "Open source alternative to AWS",
+        "long_description": "Ubicloud is an open source cloud that can run anywhere.\r\n\r\nOur cloud services include elastic compute, block storage, virtual networking, managed Postgres, and powerful IAM. Ubicloud provides these services on bare metal providers, such as Hetzner, Leaseweb, or AWS Bare Metal.\r\n\r\nYou can self-host our software or use our managed service to reduce your cloud costs by 3-10x.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Infrastructure"
+    },
+    {
+        "company_id": 29226,
+        "company_name": "Greptile",
+        "short_description": "AI expert on any codebase in natural language, accessible via API",
+        "long_description": "Greptile is an AI-powered API that can search and understand large codebases in natural language, letting software teams easily build powerful internal dev tools. \r\n\r\nDevelopers at 300+ companies including Stripe and Amazon use Greptile for LLM-powered codebase Q&A, to automatically update their docs on new commits, automate PR reviews, automatically add codebase context to new Jira tickets, and [much, much more](https://docs.greptile.com/examples).\r\n\r\nGreptile can used via the cloud, or be hosted 100% on your AWS in an air-gapped VPC.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29207,
+        "company_name": "HeyPurple",
+        "short_description": "Purple is an AI property manager for landlords and homeowners.",
+        "long_description": "",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29205,
+        "company_name": "ego",
+        "short_description": "AI-native 3D simulation engine ",
+        "long_description": "We\u2019re building the first generative ai-powered simulation engine, where non-technical creators can generate realistic characters powered by LLMs, 3D worlds, and interaction code/scripts with just prompts. The future of user-generated simulations, games, and interactive media will be powered by our engine.\r\n\r\nWe used our engine to build TownWorld - a 3D interactive Twitch live stream of the Stanford generative agents paper (https://www.twitch.tv/townworld). To the best of our knowledge, it's the first ever AI 3D simulation of a small town in real time\r\n\r\nYC Launch - https://www.ycombinator.com/launches/KeD-ego-an-ai-native-3d-simulation-engine-getting-us-closer-to-the-matrix-one-pixel-at-a-time\r\n\r\nDemo video: https://docsend.com/view/mzf6i7kiwkkgg669\r\n\r\nAI 3D TownWorld video: https://docsend.com/view/ig6t2shuz26z7wha",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Consumer"
+    },
+    {
+        "company_id": 29201,
+        "company_name": "Leya",
+        "short_description": "The AI assistant for lawyers",
+        "long_description": "Leya is an AI assistant designed for legal professionals, adept at answering complex legal questions and optimizing workflows. By integrating with the firm's internal knowledge databases and external laws, cases, and regulations, Leya delivers reliable, source-cited answers and allows lawyers to start using gen AI today.\r\n\r\nAlready in use at top-tier law firms in across Europe, we are now accelerating significantly.\r\n\r\nTo learn more, please visit us at https://www.leya.law/",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Legal"
+    },
+    {
+        "company_id": 29196,
+        "company_name": "Scritch",
+        "short_description": "AI operating system for veterinary care",
+        "long_description": "Scritch is building the leading AI operating system for veterinary care. We provide AI agents to streamline operations including scheduling and clinical workflows.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare"
+    },
+    {
+        "company_id": 29189,
+        "company_name": "RadMate AI",
+        "short_description": "Copilot for radiologists",
+        "long_description": "We\u2019re building the AI copilot for radiologists, powered by a foundational model for medical imaging. RadMate AI will read radiology images and generate full reports for radiologists to review and submit.\r\n\r\nMohamed and Adam are technical co-founders who met while studying Computer Science at Cornell University. Before starting RadMate AI to solve the problems his dad faced as a radiologist, Adam worked at Palantir on the initial launch of Palantir\u2019s Al Platform. Mohamed has experience at AWS, where his goal was to help enterprises innovate on the cloud, and PathAl, where he worked on their image viewer platform to improve the workflow of pathologists. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Healthcare"
+    },
+    {
+        "company_id": 29186,
+        "company_name": "SSOReady",
+        "short_description": "Open source developer tools for enterprise single sign-on",
+        "long_description": "Large contracts with large companies usually require software companies to offer SAML SSO. \r\n\r\nImplementing SAML SSO yourself is pretty hard and not a good use of your time. \r\n\r\nWe make it really easy to implement SAML SSO in your product. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29185,
+        "company_name": "Relari",
+        "short_description": "Testing and Simulation Stack for GenAI Systems",
+        "long_description": "Relari helps AI teams simulate, test, and validate complex AI applications throughout the development lifecycle.\r\n\r\nWe are the company behind continuous-eval, an open-source modular evaluation framework with metrics covering text generation, code generation, retrieval, classification, agents, and other LLM use cases. Our cloud platform generates custom synthetic data and simulates user behavior to stress test and harden GenAI applications.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Infrastructure"
+    },
+    {
+        "company_id": 29184,
+        "company_name": "DryMerge",
+        "short_description": "Automate work with plain English.",
+        "long_description": "DryMerge lets people automate work with plain English. Say you want to manage inbound leads. Instead of dragging blocks or writing code, just tell DryMerge \"Whenever I get an email from a potential customer, add their details to a google sheet and draft a reachout message\" and watch it happen in seconds.\r\n\r\nCounterintuitively, 88% of no-code users are actually programmers. We're changing that by making automation as fast and intuitive as conversation. This opens up the market to all knowledge workers, not just technical ones, and expands it by an order of magnitude. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29183,
+        "company_name": "Navier AI",
+        "short_description": "Real-Time CFD Simulations",
+        "long_description": "Navier AI is making CFD 1000x faster with their ML-based solver.\r\n\r\n\r\nPhysics simulations, such as Computational Fluid Dynamics (CFD), are essential across many industries ranging from the design and analysis of aircraft, to weather prediction, to the development of medical devices. Today\u2019s simulation tools use explicit numerical solvers for physical equations, such as the Naiver-Stokes equations. These solvers are complex to setup and can take ages to produce results.\r\n\r\n\r\nNavier AI is building 1000x faster simulations using physics-ML solvers. Navier AI's fast CFD platform will enable engineers to quickly explore design spaces and perform analysis-in-the-loop design optimization. They are lowering the barrier to entry for aerospace and mechanical engineers to create high performance designs.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    },
+    {
+        "company_id": 29182,
+        "company_name": "Upsolve AI",
+        "short_description": "Customer-facing analytics as a service, powered by AI.",
+        "long_description": "Upsolve AI is a customer-facing analytics as a service platform. We are building a full data stack that enables businesses to build and offer analytics to their customers at lightning speed and gives their customers the superpower to answer any data questions via AI. The company is founded by Ka Ling Wu and Serguei Balanovich, who built a similar product at Palantir before (featured in Palantir's S-1), growing it to 50+ enterprise customers and 8-figures of annual revenue in 2 years.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Analytics"
+    },
+    {
+        "company_id": 29181,
+        "company_name": "SciPhi",
+        "short_description": "SciPhi is the best way to build retrieval for AI",
+        "long_description": "SciPhi is an open source platform that makes it easy for developers to build the best RAG system.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29180,
+        "company_name": "AgentHub",
+        "short_description": "A no-code platform for automating workflows with AI",
+        "long_description": "AgentHub is a platform for automating repetitive and complex workflows end-to-end with AI. \r\n\r\nBuilders drag, drop, and connect modular components onto a canvas to build powerful automations.\r\n\r\nWe provide the tools and the infrastructure to operate at 10x the speed of writing, testing, and productionizing code so you can focus on the problem at hand. ",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29179,
+        "company_name": "Driver AI",
+        "short_description": "Understand millions of lines of code in minutes.",
+        "long_description": "Driver AI is the new way to write technical documentation. It helps everyone in an organization write interactive documents to explain millions of lines of code in minutes instead of months.\r\n\r\nWHO: We partner with chip manufacturing, enterprise IT, and software product development teams.\r\n\r\nWHY: Traditionally, these teams spend millions and wait months (sometimes years) to understand their complex technology infrastructure well enough to build on top of it. \r\n\r\nTHE DRIVER DIFFERENCE: Instead, Driver AI is a tool that explains complex codebases in minutes vs. months. This enables teams to rapidly accelerate the technical discovery process and save significant resources. \r\n\r\nHOW IT WORKS: Driver AI works by digesting a codebase, organizing it for analysis, and harnessing Large Language Models (LLMs) to generate interactive explanations for executives, product and technology leaders, and developers.\r\n\r\n\"Driver AI is a paradigm shift for managing our complex software delivery pipeline.\" - Executive Vice President, Global Semiconductor Company",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29178,
+        "company_name": "Lantern",
+        "short_description": "Postgres vector database extension to build AI applications",
+        "long_description": "Lantern is the easiest way to build AI applications using Postgres.\r\n\r\nWe started Lantern because we believe AI is going to impact every single enterprise in every single industry. We want to allow every company to tap into their unstructured data to build better applications.\r\n\r\nWith Lantern Cloud, developers have access to everything they need to build an AI application: embedding generation, vector compression, vector search, efficient indexing, and more. All on top of the database they already know, Postgres, and using infrastructure that scales to billions.\r\n\r\nCheck out our code on Github: https://github.com/lanterndata/lantern",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B"
+    },
+    {
+        "company_id": 29177,
+        "company_name": "Danswer",
+        "short_description": "Open Source AI Assistant and Enterprise Search",
+        "long_description": "Danswer is the AI assistant that connects to all your company tools and docs and makes finding any piece of information a breeze. Think ChatGPT, but with access to all your companies documents (only the ones you have access to, of course :P). Or, if you know Glean, you can think about it like an open-source Glean. \r\n\r\nConcerned about your data? Don't worry we're fully open source (MIT license) and built to be self-hosted. You can setup Danswer in your VPC in less than 30 minutes - no packets ever have to leave your cloud.\r\n\r\nCheck us out on Github: https://github.com/danswer-ai/danswer!",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "B2B -> Productivity"
+    },
+    {
+        "company_id": 28965,
+        "company_name": "Yenmo",
+        "short_description": "Secured consumer lending in India",
+        "long_description": "Yenmo offers a better way to access cash for India\u2019s 65 million investors who either resort to personal loans at over 18% interest or have to liquidate their investments when in need of money. With Yenmo, they can pledge their investments digitally and instantly get a loan at a fixed 10.5% interest rate.\r\n\r\nOur Insight - In India, over 30% of personal loan borrowers have active investments and are paying double the interest rate they qualify for with us.",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Fintech"
+    },
+    {
+        "company_id": 28896,
+        "company_name": "GovernGPT",
+        "short_description": "AI Back Office for Private Funds",
+        "long_description": "For money managers to raise their next billion, they dedicate entire teams to spend days filling diligence questionnaires with recycled content. We do it in minutes using AI.\r\n",
+        "batch": "W24",
+        "status": "Active",
+        "subindustry": "Fintech"
+    },
+    {
+        "company_id": 29206,
+        "company_name": "Stitch Technologies",
+        "short_description": "-",
+        "long_description": "",
+        "batch": "W24",
+        "status": "Inactive",
+        "subindustry": "B2B -> Engineering, Product and Design"
+    }
+]
